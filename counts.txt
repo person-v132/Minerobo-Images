@@ -1,123 +1,123 @@
                corundum  33
                    opal  27
-               fluorite  26
                amethyst  26
+               fluorite  26
                   agate  25
-             chalcedony  25
                 calcite  25
+             chalcedony  25
                  pyrite  24
                 diamond  23
                   beryl  22
                 azurite  21
+                 barite  21
+                   gold  21
           rhodochrosite  21
                   topaz  21
-                   gold  21
-                 barite  21
-              malachite  20
             apophyllite  20
                hematite  20
+              malachite  20
+                 silver  20
+               stilbite  20
+                 sulfur  20
                goethite  18
-                epidote  17
-              willemite  17
+             sphalerite  18
                 apatite  17
-             vanadinite  17
+                epidote  17
               magnetite  17
+               stibnite  17
+             vanadinite  17
+              willemite  17
               almandine  16
                dolomite  16
                  rutile  16
            chalcopyrite  15
-                kyanite  15
-                olivine  15
                  copper  15
                graphite  15
-           pyromorphite  15
+                kyanite  15
+                olivine  15
              pyrolusite  15
+           pyromorphite  15
+              spodumene  15
               aragonite  14
                  galena  14
-              rhodonite  13
-                 halite  13
-                 zircon  13
+             staurolite  14
              actinolite  13
+                 halite  13
+              rhodonite  13
+                 zircon  13
              microcline  12
-                ulexite  12
               tremolite  12
               turquoise  12
-              muscovite  11
+                ulexite  12
             labradorite  11
+              muscovite  11
+               sodalite  10
                 zincite  10
                 bornite   9
              hornblende   9
                 citrine   8
              lepidolite   8
-                 augite   7
                  albite   7
-                 garnet   6
+                 augite   7
                 biotite   6
+                 garnet   6
               kaolinite   6
+                bauxite   5
+               limonite   5
              orthoclase   5
                    talc   5
-               limonite   5
-                bauxite   5
                  jasper   4
-              amazonite   0
-               andesite   0
-                 basalt   0
-                diorite   0
-                 gabbro   0
-                granite   0
-               obsidian   0
-              pegmatite   0
-             peridotite   0
-                 pumice   0
-               rhyolite   0
-                 scoria   0
-                syenite   0
-                   tuff   0
-              spodumene   0
-             aventurine   0
-           milky quartz   0
-           rock crystal   0
-            rose quartz   0
-           smoky quartz   0
-             sphalerite   0
-               stibnite   0
-               sodalite   0
-             staurolite   0
-               stilbite   0
-       tourmaline group   0
-                 silver   0
-                 sulfur   0
-             anthracite   0
-        bituminous coal   0
-                lignite   0
               alabaster   0
-             satin spar   0
-               selenite   0
+              amazonite   0
+            amphibolite   0
+               andesite   0
+             anthracite   0
+                 arkose   0
+             aventurine   0
+            banded iron   0
+                 basalt   0
+        bituminous coal   0
+                breccia   0
               celestite   0
                   chalk   0
-                coquina   0
-fossiliferous limestone   0
-      oolitic limestone   0
-             travertine   0
-          garnet schist   0
-            mica schist   0
-              soapstone   0
-            banded iron   0
-                breccia   0
                   chert   0
            conglomerate   0
+                coquina   0
               diatomite   0
+                diorite   0
               dolostone   0
-              rock salt   0
-            rock gypsum   0
-                  shale   0
-                 arkose   0
-              greywacke   0
-       quartz sandstone   0
-            amphibolite   0
+fossiliferous limestone   0
+                 gabbro   0
+          garnet schist   0
                  gneiss   0
+                granite   0
+              greywacke   0
+                lignite   0
                  marble   0
+            mica schist   0
+           milky quartz   0
+               obsidian   0
+      oolitic limestone   0
+              pegmatite   0
+             peridotite   0
                phyllite   0
+                 pumice   0
+       quartz sandstone   0
               quartzite   0
+               rhyolite   0
+           rock crystal   0
+            rock gypsum   0
+              rock salt   0
+            rose quartz   0
+             satin spar   0
+                 scoria   0
+               selenite   0
            serpentinite   0
+                  shale   0
                   slate   0
+           smoky quartz   0
+              soapstone   0
+                syenite   0
+       tourmaline group   0
+             travertine   0
+                   tuff   0
