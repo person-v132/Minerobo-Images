@@ -57,6 +57,8 @@
 ./garnet group/garnet/garnet-uvarovite-sarany-russia.jpg,8de744cb0248673f1e07067cd7385de5bdcb3d60
 ./garnet group/garnet/garnet-pyrope-brazil.jpg,c17e1ff0cd881945c22aa7e282b8d70f8909a5b8
 ./garnet group/garnet/garnet-almandine-wrangell-alaska.jpg,7b797877fb23f703879a8300567bba24c10ddcdc
+./schist varieties/soapstone/22f53035e3b158ef6e9977d9d7691432a82604f5.jpeg,22f53035e3b158ef6e9977d9d7691432a82604f5
+./schist varieties/soapstone/5f0da5fc59ccb027fa5102c92ecfa8857f468db7.jpeg,5f0da5fc59ccb027fa5102c92ecfa8857f468db7
 ./schist varieties/mica schist/f5f6d53e0c21315940a6783b7ace19eada4c5276.jpeg,f5f6d53e0c21315940a6783b7ace19eada4c5276
 ./schist varieties/mica schist/867cc17f00891f75dcdade8d4d458a5f55ca6429.jpeg,867cc17f00891f75dcdade8d4d458a5f55ca6429
 ./schist varieties/mica schist/76dd7192337e7d337bcd73e07f3c3a5018e49a6a.jpeg,76dd7192337e7d337bcd73e07f3c3a5018e49a6a
@@ -271,6 +273,7 @@
 ./quartz varieties/agate/eye-agate.jpg,0e920b7014439e5c9c3356f562775e5983434a8f
 ./quartz varieties/agate/fire-agate.jpg,8714e18ae6e911f6c236d509fc3206ca43f9b135
 ./quartz varieties/agate/laguna-agate-yellow.jpg,575c17019e5c9857a99470ac968a10d117541563
+./quartz varieties/agate/c55bcb248f65146f793643ff11f5efc0f5de915f.jpeg,c55bcb248f65146f793643ff11f5efc0f5de915f
 ./quartz varieties/agate/agate-paterson.jpg,3ad2c68a4bdb5cea16b583664ba5a2467d76b621
 ./quartz varieties/agate/b609ff252963c38f8c49bceed78f49504f9b742b.jpeg,b609ff252963c38f8c49bceed78f49504f9b742b
 ./quartz varieties/agate/agate-dyed.jpg,5fc688a72fcc3660fe43953c0a5cb4163dcda4f2
@@ -309,11 +312,14 @@
 ./quartz varieties/opal/black-opal-ethiopia.jpg,c60ed0b813f77334e6fa5d94ac20b2e99bb3c08a
 ./quartz varieties/opal/opal-moss-puerto-rico.jpg,3d25d9e41daeb18885d863956db9e331bd55555a
 ./feldspar - plagioclase/albite/albite-pericline-twins.jpg,f28e33f6ce9b538dbd7ed96b327beb983b216b5e
+./feldspar - plagioclase/albite/59159267_4f2825d67c.jpg,33a5f29eb2db6812c35921cab4ccd3ab9aa7868f
 ./feldspar - plagioclase/albite/albite-clear-nuristan.jpg,8b585141370fbb7ae89ef6f201e2e31809013d16
 ./feldspar - plagioclase/albite/albite-branchville-ct.jpg,d081aacc26818db14ab28dc7196a611890a45c66
 ./feldspar - plagioclase/albite/albite-peristerite.jpg,39bba7a37c6697b7e3373812142a43c8d6000f51
+./feldspar - plagioclase/albite/59159268_c11c2bfe86_b.jpg,80b5eddd0c5345d8bdc7afa6e2bbe00392cb695c
 ./feldspar - plagioclase/albite/albite1.jpg,6d3075012ce026c657ca85fb550df8f293004147
 ./feldspar - plagioclase/albite/albite-pederniera Mine.jpg,bc9b3b1bbe68e237c414b636d4cfa6e214867db3
+./feldspar - plagioclase/albite/47054482011_f8c90fd71d_b.jpg,c7d58d8dde1fc79ab4f9e8ae469a9b8e175772d2
 ./feldspar - plagioclase/albite/albite-himalay-san-diego.jpg,e268ef86e51f279ae2fd529953fe17f3bad6b34c
 ./feldspar - plagioclase/labradorite/labradorite-tulear-madagascar.jpg,2d6df86a0268f44f12fe58633cc5172240bf1f66
 ./feldspar - plagioclase/labradorite/labradorite-polished-labrador.jpg,dcff1f145c8a2ec75a8c3183f3b15c30886f085f
@@ -670,6 +676,7 @@
 ./sulfates/barite/Barite-Coxcomb-France.jpg,958a4bdb30475db4fda1836f6913d556a6eb81f3
 ./silicates/kaolinite/16dadc81f64d877e0f3d1ce704f08fa59ebe9410.jpeg,16dadc81f64d877e0f3d1ce704f08fa59ebe9410
 ./silicates/kaolinite/cb53d438b26e67197e1327e0e6e7237c1351c4e8.jpeg,cb53d438b26e67197e1327e0e6e7237c1351c4e8
+./silicates/kaolinite/ebdc4919c5f36c5efa5097c83f56fd2f9e50ffb3.jpeg,ebdc4919c5f36c5efa5097c83f56fd2f9e50ffb3
 ./silicates/kaolinite/kaolinite-zinkenite-oruro-bolivia.jpg,39ed69b1544f9316320017485ff897102d0cfabc
 ./silicates/kaolinite/8751d7a178df9b6340e83f7e94affde0078b13a7.jpeg,8751d7a178df9b6340e83f7e94affde0078b13a7
 ./silicates/kaolinite/kaolinite-pseudo-orthoclase-cornell-england.jpg,98aae300605a9c1dcbd5e22cfd0b32f585544003
@@ -697,6 +704,7 @@
 ./silicates/talc/white-talc-fowler-ny.jpg,b0507e4b15371d2297d5ef3051187150af0ca567
 ./silicates/talc/Talc-pseudomorph-Forsterite.jpg,fe59e80311fd5e40ca365aa8e370e23c1c482be3
 ./silicates/talc/green-talc-chester-vermont.jpg,dd6f8e84dcb5c9238d53566860cb5a83de06185f
+./silicates/talc/f30dabf53453bcb7a55785875f4d3dfdada5d42d.jpeg,f30dabf53453bcb7a55785875f4d3dfdada5d42d
 ./silicates/sodalite/sodalite-crystal-kokscha-afghanistan.jpg,ea075ae0c58d78154e68966031bdd4d96ab948d7
 ./silicates/sodalite/sodalite-polished-princess-bancroft.jpg,b7d89cdaeea66f7bbcf7fbf058f0e68fbcdab47a
 ./silicates/sodalite/sodalite-hackmanite-davis-bancroft.jpg,b8b7a8d163e572a50ae8f28a9097eb42a3791dfe
@@ -1110,6 +1118,16 @@
 ./sedimentary/bauxite/bauxite-chattanooga-tennessee.jpg,74ec51cb9fc5488ecf9c7385ed2a521514f97fe4
 ./sedimentary/bauxite/bauxite-pulaski-arkansas.jpg,4b4bd40b8c4151798b3dedf19f0e3346309a001c
 ./sedimentary/bauxite/bauxite-guyana.jpg,0ee26970ef0c5d0ae5d09719f32bc8a1f3342082
+./sedimentary/diatomite/f5749edee78bdd477bdf189237f6878cb4f7f57d.jpeg,f5749edee78bdd477bdf189237f6878cb4f7f57d
 ./sedimentary/diatomite/bece5da681ccc8ae2b9fddf02af48344de0a6339.jpeg,bece5da681ccc8ae2b9fddf02af48344de0a6339
+./sedimentary/rock salt/93ff92a442b17f4adda86ddf5db4a8f4cd8ceb38.jpeg,93ff92a442b17f4adda86ddf5db4a8f4cd8ceb38
+./sedimentary/rock salt/a7f280fd3ae5882b078dad62d5d509ccedf0a78b.jpeg,a7f280fd3ae5882b078dad62d5d509ccedf0a78b
 ./gypsum varieties/selenite/6651653009_e16b650079_b.jpg,f27f93c1fed8e4302fe8ca169085eaa2391c8e59
 ./gypsum varieties/selenite/6965968709_edf2d0990f_b.jpg,8fede417fa2af1878873771dd966f896bd654cfe
+./igneous/obsidian/49056411483_7875421ffd_b.jpg,bf873c69bc302888f8abe4e7c1bfbe2d9daae8fb
+./igneous/obsidian/49056411793_362a20fa1c_b.jpg,10854c4254a04e8f4a9b3c47dc84b83dfade9408
+./igneous/obsidian/49056922611_67777e97d5_b.jpg,2804b9adc19027a6dfb7f6ee31b1116cb4324fba
+./igneous/obsidian/49057142962_283c888481_b.jpg,a1ea8d6f0ddd55dbbb38cc97367f516034450caa
+./igneous/obsidian/49057143437_4cd57eac5d_b.jpg,5594a403b9fac6e96f2558d84a0a8bbe03fcce54
+./igneous/obsidian/49056923186_065e3bd770_b.jpg,c07bd4ecf00892e3720afad2d6704ec4c5cc1333
+./igneous/obsidian/49057144017_9892abb3b4_b.jpg,cda8a7f03e36bdc4b3df95c5950d3779106c6e9a
