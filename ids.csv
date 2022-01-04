@@ -1,5 +1,9 @@
 ./metamorphic/quartzite/27840457419_ed15675311_b.jpg,062537021c443eeb8ec8368e8c5abd24566cbe8c
 ./metamorphic/quartzite/3325507755_f9e1813d63_b.jpg,a0958d6ed2aab245d292c7db0bd888caf650339e
+./metamorphic/serpentinite/339745513_a4c90d9970_b.jpg,e5d94bc166efac651247777489a3cd4c163ce9b1
+./metamorphic/serpentinite/49657530382_1990ec93e7_b.jpg,f9b98665ccfa44f5a4d375919f6d9853f8dbd3d0
+./metamorphic/serpentinite/49657253091_4ece373e87_b.jpg,bc5a881335129f13ad6e943ce6e10431b111f8d7
+./metamorphic/serpentinite/7129824529_227e90f2c6_b.jpg,29a8cf21e49ee892a343396b9c1936fcacce9361
 ./metamorphic/amphibolite/6723121739_51ac30852f_b.jpg,7a336ebb409ff15c16010831927e8c6d965eb506
 ./metamorphic/amphibolite/4927358303_4aae8c80fc_b.jpg,93adced62496bc1d9dad08f8c22be9ba6a20a77e
 ./metamorphic/amphibolite/49641474263_bc119e0d81_b.jpg,1f7d920b971872586d9b27e3f88be44d0638a415
@@ -82,8 +86,10 @@
 ./schist varieties/mica schist/867cc17f00891f75dcdade8d4d458a5f55ca6429.jpeg,867cc17f00891f75dcdade8d4d458a5f55ca6429
 ./schist varieties/mica schist/76dd7192337e7d337bcd73e07f3c3a5018e49a6a.jpeg,76dd7192337e7d337bcd73e07f3c3a5018e49a6a
 ./schist varieties/garnet schist/82f63428b1d7b0fb4defeb2ef3d7a7c5cefb5524.jpeg,82f63428b1d7b0fb4defeb2ef3d7a7c5cefb5524
+./schist varieties/garnet schist/44f995184ae2d7ab32240482edc974d71920c752.jpeg,44f995184ae2d7ab32240482edc974d71920c752
 ./schist varieties/garnet schist/dc22697d270ade60ff8fb435845d0eac84c8d85a.jpeg,dc22697d270ade60ff8fb435845d0eac84c8d85a
 ./schist varieties/garnet schist/babf89d2d781a5f56af137ec4ed39d3c1105e28d.jpeg,babf89d2d781a5f56af137ec4ed39d3c1105e28d
+./schist varieties/garnet schist/e821747d1f5cd79d9912cc0c197abbd8ceda80ef.jpeg,e821747d1f5cd79d9912cc0c197abbd8ceda80ef
 ./schist varieties/garnet schist/f9bbea7dd06991d77eb375e03b9d01619389b8c2.jpeg,f9bbea7dd06991d77eb375e03b9d01619389b8c2
 ./schist varieties/garnet schist/bf6218742a52ecc724dc9e7e111057412a1f96d8.jpeg,bf6218742a52ecc724dc9e7e111057412a1f96d8
 ./schist varieties/garnet schist/7ac861d63421426fa489413b41204708d38aceed.jpeg,7ac861d63421426fa489413b41204708d38aceed
@@ -229,6 +235,7 @@
 ./quartz varieties/amethyst/amethyst-Kazakhstan.jpg,2ee216795d57176e6dc921054bc08769baf107a4
 ./quartz varieties/amethyst/45437.jpg,5cf4b5e02fec9b7c44d9fe2b056c88c8dd88e7e4
 ./quartz varieties/amethyst/a62f33b101cb111fc387823fd3a71e6990e6e892.jpeg,a62f33b101cb111fc387823fd3a71e6990e6e892
+./quartz varieties/amethyst/6e126d34b1a2c84dc7be9eea6141a135d215339d.jpeg,6e126d34b1a2c84dc7be9eea6141a135d215339d
 ./quartz varieties/amethyst/amethyst-veracruz.jpg,4f3a63e9ffdc03663b968849454754be4977f999
 ./quartz varieties/amethyst/amethyst-four-peaks.jpg,8435e9cff27f02e78082707e7ad6510c2cfc4115
 ./quartz varieties/amethyst/amethyst-deer-hill-maine.jpg,6cbc1cb67e4059496dff43ec7ecfec6ccde9d5a5
@@ -311,6 +318,8 @@
 ./quartz varieties/agate/f59cdfc01d4116f771aea1228de67e738b3bc081.jpeg,f59cdfc01d4116f771aea1228de67e738b3bc081
 ./quartz varieties/agate/fortification-agate-brazil.jpg,d47cc040f5ce97979c59000130a535c9201fd274
 ./quartz varieties/agate/blue-white-agate-ny.jpg,360bf372e4ef7caf1fd6c3773af5e849e81cfde2
+./quartz varieties/rose quartz/962c9837bcccbdbb77fcc93895973c1cf523f9f1.jpeg,962c9837bcccbdbb77fcc93895973c1cf523f9f1
+./quartz varieties/rose quartz/38d8e5b204837347c4681640128d0a36e8556a14.jpeg,38d8e5b204837347c4681640128d0a36e8556a14
 ./quartz varieties/opal/48506.jpg,23111f9be3f29039e870facfe0da8c63b7acadce
 ./quartz varieties/opal/opal-andamooka-vein.jpg,48d778e2b93293f60ae557bf2faf40601c832fd5
 ./quartz varieties/opal/wood-opal-virgin-nevada.jpg,5f4e25b11012d8b47a664785512d96a171a7a49d
@@ -736,10 +745,12 @@
 ./silicates/olivine/olivine-peridot-sapat-pakistan.jpg,4411ea776949cf29c5675b09f4505678147af21c
 ./silicates/olivine/olivine-peridot-cluster-pakistan.jpg,fddebbafb641dd67fd62b750ea1e265e7e809431
 ./silicates/talc/talc-dendrites-cyprus-ennis-montana.jpg,c2dcedd9dd506e8ef77cd7a31b810dbf41f616dc
+./silicates/talc/d14d4dc66628fd119914129973e798803a8f51a3.jpeg,d14d4dc66628fd119914129973e798803a8f51a3
 ./silicates/talc/talc-pilot-maryland.jpg,a1a2cad426ec298cd5fe6563ea211d68265604cc
 ./silicates/talc/white-talc-fowler-ny.jpg,b0507e4b15371d2297d5ef3051187150af0ca567
 ./silicates/talc/Talc-pseudomorph-Forsterite.jpg,fe59e80311fd5e40ca365aa8e370e23c1c482be3
 ./silicates/talc/green-talc-chester-vermont.jpg,dd6f8e84dcb5c9238d53566860cb5a83de06185f
+./silicates/talc/769bdd7de504da0f0c5e5bc8da6515ff3921a0b3.jpeg,769bdd7de504da0f0c5e5bc8da6515ff3921a0b3
 ./silicates/talc/f30dabf53453bcb7a55785875f4d3dfdada5d42d.jpeg,f30dabf53453bcb7a55785875f4d3dfdada5d42d
 ./silicates/sodalite/sodalite-crystal-kokscha-afghanistan.jpg,ea075ae0c58d78154e68966031bdd4d96ab948d7
 ./silicates/sodalite/sodalite-polished-princess-bancroft.jpg,b7d89cdaeea66f7bbcf7fbf058f0e68fbcdab47a
@@ -896,7 +907,10 @@
 ./silicates/stilbite/stilbite-fanwood-new-jersey.jpg,a73399437213e567ac6c8a7c2d9b814c8153ac69
 ./silicates/stilbite/stilbite-brown-montclair-nj.jpg,a9f996b02936da3f79abf4fdf3fd7799138af391
 ./silicates/kyanite/kyanite-dundee-falls-gorham-maine.jpg,72a7bb25d6b9ca53a824b386cbd35185849261ce
+./silicates/kyanite/09827894093acea53d0fff21010c98ae94f2d074.jpeg,09827894093acea53d0fff21010c98ae94f2d074
+./silicates/kyanite/dea0ae3f23cd8e1cf7487010d897a8c8206b776b.jpeg,dea0ae3f23cd8e1cf7487010d897a8c8206b776b
 ./silicates/kyanite/kyanite-black-nova-era-minas-gerais-brazil.jpg,214a21fdf8e9fa11e8f7af4d76a7af37e422de78
+./silicates/kyanite/6dd2c4151fd4f77b6093aa77a3270462b1f5462a.jpeg,6dd2c4151fd4f77b6093aa77a3270462b1f5462a
 ./silicates/kyanite/kyanite-mammy-spruce-pine-north-carolina.jpg,314068512b9bff22f11aa07dd585238e2be0e9d5
 ./silicates/kyanite/kyanite-celo-yancey-north-carolina.jpg,53c142cf94e22fa579d42928185c7d72a6a8ba6c
 ./silicates/kyanite/kyanite-staurolite-pizzo-forno-italy.jpg,d9eebdb695fb81369bab26d2017b212416f50bd7
@@ -904,10 +918,13 @@
 ./silicates/kyanite/kyanite-blue-barra-do-salinas-brazil.jpg,b85ac7c8cec0e4ed68f74d2fbf2a44095679c27d
 ./silicates/kyanite/kyanite-quartz-barra-do-salinas-minas-gerais-brazil.jpg,b676d78d603db8956332742e3897fad70c1f6773
 ./silicates/kyanite/kyanite-judds-bridge-ct.jpg,51ab97956be04629f6df8a9c3959d83e9505e2f9
+./silicates/kyanite/35fe5f9c6a9634f45ef369aeea1eb4ec18d89186.jpeg,35fe5f9c6a9634f45ef369aeea1eb4ec18d89186
 ./silicates/kyanite/kyanite-prospect-park-delaware-pennsylvania.jpg,eff35e068877cffb5ec5a5dc6dbed590d62c4d3e
 ./silicates/kyanite/kyanite-pfitzchal-tyrol-italy.jpg,c9dd04887212a5ef23e8a098307efe2bc9ef3cea
 ./silicates/kyanite/kyanite-goias-brazil.jpg,a27374ae7072c24f0f2a57b7d24e05f272f4c0d9
 ./silicates/kyanite/kyanite-sangulungulu-loliondo-arusha-tanzania.jpg,c5d2105eefd806adbfdee735bd3f0d00f1c87256
+./silicates/kyanite/ebad0dc9e9e5c6beeb7d64d01a7d7f126f21fd8e.jpeg,ebad0dc9e9e5c6beeb7d64d01a7d7f126f21fd8e
+./silicates/kyanite/35446042864487a460c25e7dabf2c0eebdbf4323.jpeg,35446042864487a460c25e7dabf2c0eebdbf4323
 ./silicates/kyanite/kyanite-celo-yancey-co-n-carolina.jpg,1698727345961f7d21d5707b0d0073e7e42e43db
 ./silicates/kyanite/kyanite-st-gotthard-switzerland.jpg,a0abb49ebda0477c33f70a668cd619af78bdc094
 ./mica group/biotite/biotite-cranberry-lake-nj.jpg,61b3ec7a26cf2ab3ba5aefc0087ddfeaa844c147
@@ -1170,8 +1187,13 @@
 ./sedimentary/rock salt/a7f280fd3ae5882b078dad62d5d509ccedf0a78b.jpeg,a7f280fd3ae5882b078dad62d5d509ccedf0a78b
 ./sedimentary/chert/974cfb5962bc062acc19c0f88d3cfb2bfb8aea23.jpeg,974cfb5962bc062acc19c0f88d3cfb2bfb8aea23
 ./sedimentary/chert/6a22d18ba313224e3d03d2ff9bf3dd833fa6e831.jpeg,6a22d18ba313224e3d03d2ff9bf3dd833fa6e831
+./sedimentary/dolostone/cdfb850a0f36dd47ba30b3013870519753829d10.jpeg,cdfb850a0f36dd47ba30b3013870519753829d10
 ./sedimentary/dolostone/5a4507514df8e7d6f04e98054f259feb72ba8f44.jpeg,5a4507514df8e7d6f04e98054f259feb72ba8f44
+./sedimentary/dolostone/6ff20d19b156a6ddb91ff4aad0dd32d2ba0c1b52.jpeg,6ff20d19b156a6ddb91ff4aad0dd32d2ba0c1b52
+./sedimentary/dolostone/2a10ff26146faad4f5932295ed30b5512526f735.jpeg,2a10ff26146faad4f5932295ed30b5512526f735
 ./sedimentary/dolostone/efda6f04b26b9ad4d2dfb11495ff2bac3dca8d94.jpeg,efda6f04b26b9ad4d2dfb11495ff2bac3dca8d94
+./sedimentary/dolostone/d15b6aebd06548b5b81b81b143976b6df29e49a2.jpeg,d15b6aebd06548b5b81b81b143976b6df29e49a2
+./sedimentary/dolostone/81c504ce10c81aa70761cc6538bc14b93b21c0d8.jpeg,81c504ce10c81aa70761cc6538bc14b93b21c0d8
 ./sedimentary/dolostone/1fb6e7dfb82cb4a67e18c2a3f8817dec38c928d5.jpeg,1fb6e7dfb82cb4a67e18c2a3f8817dec38c928d5
 ./gypsum varieties/alabaster/18582681262_924bba7950_b.jpg,0e51201dbee136a6905803c438c095fbd0ec1dbe
 ./gypsum varieties/selenite/6651653009_e16b650079_b.jpg,f27f93c1fed8e4302fe8ca169085eaa2391c8e59
@@ -1183,6 +1205,7 @@
 ./igneous/andesite/5174270283_a559a9ed87_b.jpg,234b138e22608bfcd92a2abf942cc3a5ccc42f8b
 ./igneous/andesite/5168235366_499ced92aa_b.jpg,78d7eaef6462b846ee533696a16e7511b9976f0e
 ./igneous/andesite/5168254564_e1bd59eafe_b.jpg,62fa8abd3edcb54fb270a29b2e903c37286f7275
+./igneous/andesite/48598942527_108e591dd1_b.jpg,e86ab543516626fbe691806a4fe39dad35ce1098
 ./igneous/peridotite/339747236_063f6217e4_b.jpg,ac6222a8103ce7e35a52dbd35b3c764623676300
 ./igneous/peridotite/48674380703_4760d919f4_b.jpg,4cec7550c96f9bc5d7089656c76f1e41e0464697
 ./igneous/peridotite/7048584249_89a61a952a_b.jpg,62cb8e7b2f76af1d77fd1e4ffd91162a781ca86c
@@ -1190,8 +1213,10 @@
 ./igneous/peridotite/4933558672_6145fdd3a4_b.jpg,919e95ee47fa89cae0ecbb006c56ec049dcbe7ee
 ./igneous/peridotite/f2903f327299440790a3536697f7fb76.jpeg,b2570f1b08124cb910b5896bc49be104b3abdb81
 ./igneous/peridotite/6928296275_b66a01736b_b.jpg,24b1903592a1e78a60e640561579bd4eb9c81219
+./igneous/pumice/2987703637_9833101e58_b.jpg,93f31f223c3f278c5781eddb6543f7a1535c5d4a
 ./igneous/pumice/5100128977_be24466df6_b.jpg,6036b1b9245bcee306c6c681ac2a7703a8be30df
 ./igneous/pumice/5100087277_314d00c949_b.jpg,4da98cedbc68dd64a79881e03a7d2f09798c6b23
+./igneous/pumice/49801691562_4056c3058b_b.jpg,689be18a788809bc462aa2bf9d4e09e6923be3ba
 ./igneous/obsidian/49056411483_7875421ffd_b.jpg,bf873c69bc302888f8abe4e7c1bfbe2d9daae8fb
 ./igneous/obsidian/49056411793_362a20fa1c_b.jpg,10854c4254a04e8f4a9b3c47dc84b83dfade9408
 ./igneous/obsidian/49056922611_67777e97d5_b.jpg,2804b9adc19027a6dfb7f6ee31b1116cb4324fba
