@@ -66,6 +66,7 @@
 ./borates/ulexite/ulexite-massive-nevada.jpg,aeaf2a73986f7535cd9d8d0fa489b284fcc0278c
 ./borates/ulexite/yellow-ulexite-kramer.jpg,d90508b67b42a293944ded8c1759c049abfb2f23
 ./garnet group/almandine/almandine-garnet-russel-massachussetts.jpg,37c27e89cced4e87626bb67ffd0b397232c9d41b
+./garnet group/almandine/e4699b9cf93e22041d12c28ba5e891f48a8157fc.jpeg,e4699b9cf93e22041d12c28ba5e891f48a8157fc
 ./garnet group/almandine/almandine-garnet-schist-oetztal-austria.jpg,5008a93f6235450d917dc0bc971f9baf9885e910
 ./garnet group/almandine/almandine-serrote-redondo-brazil.jpg,54374e7c20be78a458119c6c3533d02dcf4f614b
 ./garnet group/almandine/almandine-garnet-manhattan-new-york-city.jpg,7125a106d942d8434b09afd9144aa8fa5898fc10
@@ -512,12 +513,16 @@
 ./(hydr)oxides/rutile/rutile-novo-horizone-brazil.jpg,0cbd10053216de8efd76773025f66096bc944704
 ./(hydr)oxides/rutile/rutile-parkesburg-chester-pa.jpg,ca87a390b5db6623325508a6c2d78d5d670bc216
 ./(hydr)oxides/limonite/58733352_16dcea86d9.jpg,c875822bcc0d6b49480626be37ae4e643af57a8b
+./(hydr)oxides/limonite/16898863469_9665c5e2fd_b.jpg,69fe34b0b0d487e51693e20b8b34130319c6d3cb
+./(hydr)oxides/limonite/47977408_fe03c93254_b.jpg,1cf039eb232f3c743f6309daf6641bff207dbfd8
 ./(hydr)oxides/limonite/58733353_9002cc4028.jpg,a4c75f1be6937dce8dab79f8cb7a48535f7a578f
 ./(hydr)oxides/limonite/limonite-pseudo-calcite.jpg,801289e56245bf354de3290435501d96c1fcfe28
+./(hydr)oxides/limonite/6671512_61cca49cbd_b.jpg,1e663feb9d3c9969ce75baad35672575a8842f82
 ./(hydr)oxides/limonite/limonite-pseudo-pyrite-carolina.jpg,3541678e39015cdb1c979e030dc932fe316ff902
 ./(hydr)oxides/limonite/limonite-rough-michigan.jpg,2579ef08bb588621023d8a70f0f1bafe810c6b0e
 ./(hydr)oxides/limonite/limonite-stalactite-pennsylvania.jpg,ece923a6c37bd7b5007fc68899cea200fa566c1f
 ./(hydr)oxides/limonite/limonite-pseudo-marcasite.jpg,c9a4ccce984d44e4dc150e788291c6a2aff85ec1
+./(hydr)oxides/limonite/47353668192_b4712db55a_b.jpg,490d49892174954bbe2aa61a4d594971c243eadf
 ./(hydr)oxides/corundum/corundum-ruby-tsavo-kenya.jpg,a0935e4cd740495575b96bc9a40dcb7dce741795
 ./(hydr)oxides/corundum/sapphire-orange-burma-g.jpg,1881eaf510e4e6354a0713229cd672e03744a570
 ./(hydr)oxides/corundum/40440081_2625324a62_b.jpg,8971991775a220f06e54d8ba6006946aa985ccc1
@@ -545,10 +550,13 @@
 ./(hydr)oxides/corundum/corundum-sapphire-matrix-ilmen-russia.jpg,68e8a3da37553a190d8a8813d190017c6fefa52e
 ./(hydr)oxides/corundum/ruby-marble-lucyen-vietnam.jpg,d6108cd029da0f6cbb18a685671fc4d08eb4ad10
 ./(hydr)oxides/corundum/corundum-ruby-crystals-mogok-burma.jpg,d4773a3fca7558655ec2cfc55d23b439b88f0cdd
+./(hydr)oxides/corundum/7542d048ecc780ab23962b2bcbdc4253f5f996af.jpeg,7542d048ecc780ab23962b2bcbdc4253f5f996af
 ./(hydr)oxides/corundum/corundum-sapphire-pailin-cambodia.jpg,63fd9cfb92a722c0fb6c4915ce42430b3f01613f
 ./(hydr)oxides/corundum/sapphire-yellow-sri-lanka.jpg,311cc21ff9bf70052042944a2d6447d4a2a83e33
 ./(hydr)oxides/corundum/corundum-ruby-crystal-mysore-india.jpg,4f7f323066b29b367d4774d0a91c81bff036b1e0
 ./(hydr)oxides/corundum/ruby-mysore-india.jpg,381bacbb4a3785a1289fb141309688b0b935b0b2
+./(hydr)oxides/corundum/38724606_48bc35681b.jpg,ee5edff7c2c4103290d9617ec4f197d4478a30b2
+./(hydr)oxides/corundum/f48bd0a40b95da03aa868c2678bdb8c521fd3856.jpeg,f48bd0a40b95da03aa868c2678bdb8c521fd3856
 ./(hydr)oxides/corundum/46d741b717c23380835d71147982b01cd3127de6.jpeg,46d741b717c23380835d71147982b01cd3127de6
 ./(hydr)oxides/corundum/ruby-zoisite-tanzania.jpg,ad630711314c823f9c262bfca2582e4df45630f7
 ./(hydr)oxides/corundum/38724607_d42ed0bc12.jpg,0834ddfddc2df97ebc786c0852504ca106cac1b2
@@ -772,6 +780,7 @@
 ./silicates/olivine/olivine-forsterite-peridot-prismatic.jpg,7677bd21419c19c9aece30ef4cfda47fc311cf61
 ./silicates/olivine/pallasite-meteorite-olivine-iron-nickel.jpg,58ad57cd6d70aae6fe99b3433ac0e083e99a1bf2
 ./silicates/olivine/olivine-peridot-pyramidal-pakistan.jpg,a0b306b24536702b123a2a234ca0617433aef5e0
+./silicates/olivine/a6c17e2c3d30b06c25cd9910f9993d8ac0880531.jpeg,a6c17e2c3d30b06c25cd9910f9993d8ac0880531
 ./silicates/olivine/olivine-fayalite-obsidian-coso-hot-springs.jpg,49364ed137746ce0809a3e66b0d2eab8bd52ffcf
 ./silicates/olivine/olivine-forsterite-notre-dame-du-laus.jpg,a07e1b6664b538ee9237b4a0fdf216390b836001
 ./silicates/olivine/olivine-peridot-zebirged-red-sea-egypt.jpg,c0c1dc0b73fbfbc5a29940940c643931df84f99e
@@ -1020,6 +1029,7 @@
 ./phosphates/vanadinite/45278.jpg,477716cd42de73af9650f706e3d2bee5500446c6
 ./phosphates/vanadinite/37166.jpg,e676a7760d5926d0e70df64921df512bd9e84b84
 ./phosphates/vanadinite/11813.jpg,3bec446f3fd3751549518f2d21bd5a3410112cb4
+./phosphates/vanadinite/8401742380_762fa9fb65_b.jpg,70dcf593ed2bd1d1dc82d17e965303a92276edfe
 ./phosphates/vanadinite/46115.jpg,cf8944f6c177c9e643fbad2d559c07fabb038e5d
 ./phosphates/vanadinite/45791det.jpg,38104e9a5748c11bd3027c4cdef89b39c838d1ca
 ./phosphates/vanadinite/vanadinite-touissit-morocco.jpg,50c02ea3bdc2ed16408687164d82faa454c55723
@@ -1300,3 +1310,4 @@
 ./igneous/diorite/16542660847_b88101c3f9_b.jpg,640732c914a77eba95c257f22a9c41c5f222bca0
 ./igneous/diorite/5115458217_55b335037f_b.jpg,7413592246dcf49cd85286c0081e8d81ca0bbb2f
 ./igneous/diorite/50593018067_6049ed616f_b.jpg,3bb615981614c789b6340f0263ec97b205c6f8b3
+./coal varieties/lignite/16827552535_20c4c438e1_b.jpg,856b9055eb964c28611f0161171a5c7652b0076f
