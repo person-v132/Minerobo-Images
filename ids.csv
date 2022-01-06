@@ -37,6 +37,7 @@
 ./feldspar - potassium/microcline/pink-microcline-pennsylvania.jpg,3ea6dbc8b42ddf0b4403103c1e48ed797c292a46
 ./feldspar - potassium/microcline/orthoclase-baveno-twin-ca.jpg,aceb2524e4c68d70fec43f832b98027eb7c0b8d5
 ./feldspar - potassium/microcline/7283942888_e67a5268bf_b.jpg,7483e030d37c550eb4f13c75401942b8d7e3a1a5
+./feldspar - potassium/amazonite/38724604_995303b621_b.jpg,85742f55d22721a9f9f4ae5059d7bfd9e8d20845
 ./feldspar - potassium/orthoclase/orthoclase-carlsbad-twin-nevada.jpg,d42a496278a2b78324da9427cb12ed5c3452c0af
 ./feldspar - potassium/orthoclase/orthoclase-adularia-switzerland.jpg,115017f02da94c53a1ac92932a1dfd1fc8170bee
 ./feldspar - potassium/orthoclase/orthoclase-colorado.jpg,5e4945b25c76215ec8765b81f50f6766a90c13f5
@@ -220,6 +221,7 @@
 ./carbonates/calcite/orange-calcite-roosevelt-pennsylvania.jpg,7dbc2097dadf8cd4dcde9c79633ec078727f0865
 ./carbonates/calcite/2scalmex.jpg,c1cba125cf65d7bdcd810fd3fb746a4db37c9007
 ./carbonates/calcite/46133.jpg,e6bfdb99458130ea35ccfc645e6c693f98c8fa71
+./carbonates/calcite/2704428154_d4b46b14a0_b.jpg,0dabea7db1185cb27262457b434b5b918f9e526b
 ./carbonates/calcite/9salmon.jpg,3c06c75c7263ae83c9e8f353fb0065ec9a15e79f
 ./carbonates/calcite/7brain.jpg,3ea691bbd77f6bca8e25b474beda91ed6a63c144
 ./carbonates/calcite/cobaltocalcite.jpg,4a6e470ffa4ca1492fe1ff527bcda5668eaee158
@@ -395,11 +397,15 @@
 ./feldspar - plagioclase/labradorite/labradorite-tulear-madagascar.jpg,2d6df86a0268f44f12fe58633cc5172240bf1f66
 ./feldspar - plagioclase/labradorite/labradorite-polished-labrador.jpg,dcff1f145c8a2ec75a8c3183f3b15c30886f085f
 ./feldspar - plagioclase/labradorite/labradorite-yellow-ukraine.jpg,dab84f62ffd86a30ccf60a971d3250eabfe68993
+./feldspar - plagioclase/labradorite/1975654078_539ca0cbe1.jpg,4df997dcdcc8f80b96eb15444e5fff9dba6f60cd
 ./feldspar - plagioclase/labradorite/14709967105_0c27e85f72_b.jpg,8a9b16a2bad29507ea5199734618a39f9e7ec02c
 ./feldspar - plagioclase/labradorite/labradorite-spectrolite-finland.jpg,2908b27c16d284cb8650896a78be1f34ff75d3a9
+./feldspar - plagioclase/labradorite/7143605673_c96cdcd746_b.jpg,c15bddcb8eadc1d0ca3cf664ed37e25b6cdf2223
 ./feldspar - plagioclase/labradorite/labradorite-labrador-polished.jpg,922e52485c77faaba3713213d6a75f2729edc6ae
 ./feldspar - plagioclase/labradorite/labradorite-belles-island.jpg,9104a6c6c124aaeefb0f346f456cb6024162d74c
 ./feldspar - plagioclase/labradorite/labradorite-nain-labrador.jpg,dfe7548213c9c434760bb79c9376e2a462e54c6b
+./feldspar - plagioclase/labradorite/15067909564_ae54ab704a_b.jpg,cef4df48cb5cb1623319f563708e1d83b1c59ba5
+./feldspar - plagioclase/labradorite/28138433476_f3ccd71be9_b.jpg,a56f9a594898e0bc9aba8f98540f1b1b2bcabcc5
 ./feldspar - plagioclase/labradorite/labradorite-nain-labrador-canada-smithsonian.jpg,52f7925fabd4a98baa40d44e579306424b64a193
 ./feldspar - plagioclase/labradorite/15067909684_8914537a23_b.jpg,0d71e83fd31e1cd45700e08ff7bfb20c09c1b29a
 ./feldspar - plagioclase/labradorite/labradorite-saranac-lake-ny.jpg,eb6f266381b123296837a0120572ff55ca0c9dd3
@@ -507,6 +513,7 @@
 ./(hydr)oxides/hematite/42555de2.jpg,34df20ac0b62652e3afb8daf9d8f04a97bc08428
 ./(hydr)oxides/hematite/hematit4.jpg,456c8075e65aa97f8af537ccbdb61666e083a493
 ./(hydr)oxides/hematite/hematit2.jpg,7e3bbff792303027146e0ae62189c20c0ce86a8b
+./(hydr)oxides/hematite/46065842321_bf73df6026_b.jpg,e40988265c4402ffd6d2660cd330c7baf4924f51
 ./(hydr)oxides/hematite/hematite-kidney-ore-alston-moor.jpg,1fb9411dd8496aca6e3f977cd62ce6371b2cf52a
 ./(hydr)oxides/hematite/hematite-rainbow.jpg,07f17a7ca2aa553370305ff8b1885cf4c070da5a
 ./(hydr)oxides/hematite/hematite-rutile-cavaradi-gorge-tujetsch-switzerland.jpg,a1aaf33f8c5272ec4798234d3e98dc6a11f07e0b
@@ -1007,12 +1014,14 @@
 ./silicates/kyanite/kyanite-celo-yancey-co-n-carolina.jpg,1698727345961f7d21d5707b0d0073e7e42e43db
 ./silicates/kyanite/kyanite-st-gotthard-switzerland.jpg,a0abb49ebda0477c33f70a668cd619af78bdc094
 ./mica group/biotite/biotite-cranberry-lake-nj.jpg,61b3ec7a26cf2ab3ba5aefc0087ddfeaa844c147
+./mica group/biotite/31739438210_727a89c2bc_b.jpg,85426c3ebcd1e36f6579462047748a7c8396466d
 ./mica group/biotite/biotite-beechy-bottom.jpg,f659ac08261921741977d5239f850a3d965fad1d
 ./mica group/biotite/eastonite.jpg,f58757403e5735054a587a70b81a4864203183c0
 ./mica group/biotite/biotite-manganophyllite-sweden.jpg,6ff52c23e494045a78ba7239895bdc80b638c4ad
 ./mica group/biotite/32075636786_329325d022_b.jpg,93cae4425d5e1905c8167ccd4387514b8f238fa5
 ./mica group/biotite/biotite-pyramid-bancroft.jpg,5e05f08cd652794b9107979766fbe5aa2e6eddf7
 ./mica group/biotite/biotite-rect-bancroft-ontario.jpg,69e74c7de78a6fde9777ca7c67708c8c08541ee4
+./mica group/biotite/39417644811_52d724e360_b.jpg,5fe17097c9f7264256ba3f98ca267616032fb841
 ./mica group/lepidolite/34922390_8348e87c26_b.jpg,7587f599681d3942d566d5b811d03fbadaedf62c
 ./mica group/lepidolite/lepidolite-dunton-newry-maine.jpg,ed048de7ad8fc0831b93900991829665e208c580
 ./mica group/lepidolite/lepidolite-aracui-minas-gerais-brazil.jpg,59466df0ca5786c31d5c3cf055743cb9626d9931
