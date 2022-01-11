@@ -59,6 +59,7 @@
 ./limestone varieties/oolitic limestone/45243334395_fddaf172b4_b.jpg,1baaa5ce08713d56b19680729f706309308c2886
 ./limestone varieties/fossiliferous limestone/16798442485_ea0a5b8253_b.jpg,d7a55af36cf22c91aed250975fd512083fe36c08
 ./limestone varieties/fossiliferous limestone/15033339297_f0276facd3_b.jpg,8bec345b0bb25287c8de21e30dabeee460505396
+./limestone varieties/fossiliferous limestone/38772120595_bd4b825d9a_b.jpg,a8e439f1c6937ac71414e4bf2a80da87139f2dc4
 ./borates/ulexite/ulexite-needles-kramer.jpg,2fac3ffe0a08e6a80dae9069f49c5cd8ed6dc383
 ./borates/ulexite/ulexite-acicular-boron.jpg,b280e3c93a3d33d8a3e879e14bdff98249f12ce9
 ./borates/ulexite/27840469989_82b19a14e6_b.jpg,b41ff582811fd649d39056939f9585af097b5f8e
@@ -484,11 +485,14 @@
 ./(hydr)oxides/magnetite/magneti4.jpg,69a7a0938b9b4ba3a524c335c934404193f6ca93
 ./(hydr)oxides/magnetite/magnetite-zca-balmat-new-york.jpg,ec0217cb224a565b6022b8046f302023e29fab6a
 ./(hydr)oxides/magnetite/magnetite-Cerro-Huenaquino-bolivia.jpg,6f91cdcb5fab8b9568fa0c8f33d939bd2ae1451f
+./(hydr)oxides/magnetite/6816473836_b7e5887749_b.jpg,111f0fd996eedd2130a66767f97e7016281fcfba
 ./(hydr)oxides/magnetite/magnetite-cannon-mine-ringwood-nj-t.jpg,9298ad5d73c91c28d03902def277d975929566b7
 ./(hydr)oxides/magnetite/4571028081_351a48b2af_b.jpg,6419a843195d37aef877190e3f2662b481d69f78
 ./(hydr)oxides/magnetite/magnetite-hematite-pseudomorph--payun-volcano-argentina.jpg,c2546ad4fc13018ed7d9bc7fa6614263766d696a
 ./(hydr)oxides/magnetite/magnetite-cerro huenaquino-yotora-Potosi-Bolivia.jpg,f6e95ec54ca50e60b1c0ab64fef036ad64ad600a
 ./(hydr)oxides/magnetite/magnetite-octahedron-hogencamp-mine-tuxedo-ny.jpg,c9a453f5f00f2cbee4088655f057e2ab9b933883
+./(hydr)oxides/magnetite/50355766458_ebd89d415b_b.jpg,0c338a19441bf6138c7704bb74bbafb49064277f
+./(hydr)oxides/magnetite/39576785452_6cd424c08e_b.jpg,25255b02f1fb594ee4e0e695b0c8dfd3535edb56
 ./(hydr)oxides/magnetite/magnetite-slab-mesabi-range-minnesota.jpg,cb23bd794114a7f665d01e8c881c26ee5f6de9bb
 ./(hydr)oxides/magnetite/magneti1.jpg,fb78702bf9229d946388be99bf65b0339f4072cb
 ./(hydr)oxides/goethite/goethite-iridescent-bisbee-arizona.jpg,7338b007ef26aed7e2adb627442e69bc89fffd12
@@ -632,8 +636,11 @@
 ./(hydr)oxides/pyrolusite/pyrolusite-rhodochrosite-uchuccacua-peru.jpg,ce369b217a4bec0e7045cda6ed6a26e48088953a
 ./(hydr)oxides/pyrolusite/pyrolusite-mccomber-mine-negaunee-michigan.jpg,d9e7717606817c6b25db5254b692caaa78524037
 ./sandstone varieties/quartz sandstone/7255f8dded5bc9c0a5d74af1af1fa476d7739545.jpeg,7255f8dded5bc9c0a5d74af1af1fa476d7739545
+./sandstone varieties/arkose/d05ebcc84e6c6561600db3ea3691613d8d04e1a0.jpeg,d05ebcc84e6c6561600db3ea3691613d8d04e1a0
 ./sandstone varieties/arkose/d66aff80fbe4e2878058f2af4e568b7fa5335d50.jpeg,d66aff80fbe4e2878058f2af4e568b7fa5335d50
+./sandstone varieties/arkose/e22508d8b2fc53f1ad5e935912cf710863292b67.jpeg,e22508d8b2fc53f1ad5e935912cf710863292b67
 ./sandstone varieties/arkose/a4144933e78044c98f0526390ac73302c865f4b0.jpeg,a4144933e78044c98f0526390ac73302c865f4b0
+./sandstone varieties/arkose/b9814355f5c1c1e97ece27549cc64ec377c98fd4.jpeg,b9814355f5c1c1e97ece27549cc64ec377c98fd4
 ./sandstone varieties/arkose/a1a6ca944ccdff0f03d7106335363436bf561e80.jpeg,a1a6ca944ccdff0f03d7106335363436bf561e80
 ./native elements/copper/copper-mohawk-keweenaw-mich-contest.jpg,ed1a33a0fcca66dd95a0dc9a012ff952b0e59865
 ./native elements/copper/copper-pseudo-azurite-copper-rose-mine-nm.jpg,a8e0f92ea2a67a3030aef9c9586c2680345ab64b
@@ -871,6 +878,7 @@
 ./silicates/epidote/epidote-calumet-mine-salida-colorado.jpg,ee360a1e36df3fb98243fa97073409ab10e1df71
 ./silicates/epidote/epidote-knappenwand-austria-cluster.jpg,78bc125120045ff15635b2ca82cdd2859c20773b
 ./silicates/epidote/epidote-prince-of-wales-island-alaska.jpg,3c321fa9c436587015db82966ae0d7382bc0f4e1
+./silicates/epidote/c9cd13d79ef2dc3ae202bc887cfefddc3985165a.jpeg,c9cd13d79ef2dc3ae202bc887cfefddc3985165a
 ./silicates/epidote/epidote-hancockite-franklin-new-jersey.jpg,a121eab4369405cd01e38ebb43341f17a3a63a67
 ./silicates/epidote/epidote-Kuh-e-Khorram-zagros-iran.jpg,ee6e7e735a6577d73d6842f7b21c87617ae3d5f0
 ./silicates/epidote/epidote-crystal-tormiq-pakistan.jpg,e82421eede026726f84429eb100ac1e8cdebefa6
@@ -1418,9 +1426,11 @@
 ./igneous/obsidian/49056412553_88f7d18610_b.jpg,33f7e5071a9c01e42232ef9e4c7c444227b6c3bd
 ./igneous/obsidian/49056413228_2dcf78df1b_b.jpg,5de39f341c03a1a2f2b981d2f43d0d4df7d2547d
 ./igneous/obsidian/49057144017_9892abb3b4_b.jpg,cda8a7f03e36bdc4b3df95c5950d3779106c6e9a
+./igneous/basalt/3639614879_2e971b5210_b.jpg,70b570f62fc0c5f5bd1b1b416070f584acca9e14
 ./igneous/basalt/5466344557_36ae061fd5_b.jpg,084461758e7a1300640b5f6da4d082d5b852dc68
 ./igneous/basalt/4295640033_a086e1660f_b.jpg,0e36fff4bd798b1333bb976456744beeeb19c521
 ./igneous/basalt/9502391353_69aa724a20_b.jpg,44b980166fec1b37c79de15bdcd767bdd0042bdd
+./igneous/basalt/49114754217_a4ab349937_b.jpg,c3ad4858f7112b353a054a48c178d12cb4c2e17f
 ./igneous/basalt/4873507818_07e8ff122c.jpg,4b4b09a24592247ac0c3ef3247a042fb4e25b3bc
 ./igneous/basalt/4918639727_98c8b0302b_b.jpg,150804f90e562b32d8f772ccc6f3e571afdfba39
 ./igneous/diorite/5115585749_4d616f3901_b.jpg,ac1808dfd1b1c35c3a2dd226057e2933a498e56f
