@@ -19,6 +19,7 @@
 ./igneous/diorite/50592887741_a5a3d098ba_b.jpg,a887765229f88bb6651de40fbe3a9d5f2a7454ad
 ./igneous/diorite/50593018067_6049ed616f_b.jpg,3bb615981614c789b6340f0263ec97b205c6f8b3
 ./igneous/gabbro/4983521308_ab8488eae5_b.jpg,af2752bb3420c5b20e155ec5eb38840800ac8d26
+./igneous/gabbro/5005009991_312f337881_b.jpg,b95039200269f89f28adf9e10dedd9dd5f73eecf
 ./igneous/gabbro/39627405202_d7e92c5283_b.jpg,92f21d39f9d85eab82f9a140f442aec86a87ceaa
 ./igneous/gabbro/5212540497_86b8173faa_b.jpg,e71b8329dddd26f1df51810dc9988e6e86cb2fb0
 ./igneous/gabbro/5212582069_55e1b3f619_b.jpg,92a721093f0b8a84f4e4e16d0efa2f49534bd56e
@@ -60,6 +61,7 @@
 ./igneous/pumice/2987703637_9833101e58_b.jpg,93f31f223c3f278c5781eddb6543f7a1535c5d4a
 ./igneous/pumice/49801691562_4056c3058b_b.jpg,689be18a788809bc462aa2bf9d4e09e6923be3ba
 ./igneous/pumice/5100128977_be24466df6_b.jpg,6036b1b9245bcee306c6c681ac2a7703a8be30df
+./sandstone varieties/arkose/5a10f1a94ae17b22d0d4bee9c0081713277d84ad.jpeg,5a10f1a94ae17b22d0d4bee9c0081713277d84ad
 ./sandstone varieties/arkose/b9814355f5c1c1e97ece27549cc64ec377c98fd4.jpeg,b9814355f5c1c1e97ece27549cc64ec377c98fd4
 ./sandstone varieties/arkose/e22508d8b2fc53f1ad5e935912cf710863292b67.jpeg,e22508d8b2fc53f1ad5e935912cf710863292b67
 ./sandstone varieties/arkose/d05ebcc84e6c6561600db3ea3691613d8d04e1a0.jpeg,d05ebcc84e6c6561600db3ea3691613d8d04e1a0
@@ -70,6 +72,7 @@
 ./garnet group/almandine/almandine-garnet-russel-massachussetts.jpg,37c27e89cced4e87626bb67ffd0b397232c9d41b
 ./garnet group/almandine/almandine-barton-mine-gore-mountain-new-york.jpg,c9da64a8870cd5db5b2597a611fc0a8a91fe1b82
 ./garnet group/almandine/almandine-garnet-spruce-pine-north-carolina.jpg,0681bed11a7a65014b2b084b1ccdf3a8958658d4
+./garnet group/almandine/22580951844_ce85496a89_b.jpg,19ce6fd66362f13440e2d264f02a156240fb492f
 ./garnet group/almandine/almandine-garnet-hill-ely-nevada.jpg,491728d9e0a173ad59d6a5120d255923133668b6
 ./garnet group/almandine/almandine-garnet-crystal-stikine-river-wrangell-ak.jpg,57349997806e1b84e56e6680d87c9494f3b0b573
 ./garnet group/almandine/almandine-serrote-redondo-brazil.jpg,54374e7c20be78a458119c6c3533d02dcf4f614b
@@ -551,6 +554,7 @@
 ./quartz varieties/opal/brown-opal-matrix-mexico.jpg,d0934cc5df517f856ebfd75b64b138ef958936e5
 ./quartz varieties/opal/1black.jpg,5b8eb61c17f29c559ac7b6c018300665813c810e
 ./quartz varieties/opal/white-opal-coober-pedy-aust.jpg,5ce3478f1fd41481bbc5d79128183eeb22d6e166
+./quartz varieties/opal/c4629877739f28855a313534679b700d0fdd03d8.jpeg,c4629877739f28855a313534679b700d0fdd03d8
 ./quartz varieties/opal/45223.jpg,26706858b59d6736ff51a407748f845de67cade1
 ./quartz varieties/opal/fire-opal-ethiopia.jpg,9760f295b80bd833d1c98e160ed7acbb6038509b
 ./quartz varieties/opal/36437.jpg,bc86b10a39ad88c7c4b630eef8e957b6c5ef2daf
@@ -665,6 +669,7 @@
 ./(hydr)oxides/magnetite/magnetite-nordmark-sweden-.jpg,0c775d34f8718dbeb82ce0819fbdecd9a597ad4d
 ./(hydr)oxides/magnetite/magnetite-cannon-mine-ringwood-nj-t.jpg,9298ad5d73c91c28d03902def277d975929566b7
 ./(hydr)oxides/magnetite/magnetite-zca-balmat-new-york.jpg,ec0217cb224a565b6022b8046f302023e29fab6a
+./(hydr)oxides/magnetite/50355767033_6c67efef89_b.jpg,3a1f2fb4906c0f65ea3788e13a102ff5fabad042
 ./(hydr)oxides/magnetite/magnetite-growth-layers-pakistan.jpg,77f6bd14e1d8eed94e7b9e320f11f1c0b1855692
 ./(hydr)oxides/magnetite/magneti4.jpg,69a7a0938b9b4ba3a524c335c934404193f6ca93
 ./(hydr)oxides/magnetite/magnetite-slab-mesabi-range-minnesota.jpg,cb23bd794114a7f665d01e8c881c26ee5f6de9bb
@@ -903,11 +908,14 @@
 ./sulfides/chalcopyrite/chalcopyrite-dolomite-sweetwater-mine-reynolds-missouri.jpg,99ef4584ab92f9e8bfd85e90dfbc33acfe8438b4
 ./sulfides/chalcopyrite/chalcop2.jpg,2b8ed411fea3c9187fac5293d56b4d5be68cb4ff
 ./sulfides/chalcopyrite/chalcopyrite-romania.jpg,e8e73304a77cb6c53629fb4dd1edac8c755f69f0
+./sulfides/chalcopyrite/a41ccbc8168455dd18fbcdb1decf4355178a637e.jpeg,a41ccbc8168455dd18fbcdb1decf4355178a637e
 ./sulfides/chalcopyrite/chalcop1.jpg,f9c13fafe84a8750dc022d093e4f1902a81e42b7
 ./sulfides/chalcopyrite/chalcopyrite-tetrahedron-zacatecas-mexico.jpg,0b23168135a62354eec019d388be71f310ee4dd7
 ./sulfides/chalcopyrite/chalcopyrite-ladysmith-wisconsin.jpg,f91fe609fc659cef6bd427ba104c2804bf5128c2
 ./sulfides/chalcopyrite/chalcopyrite-colorado.jpg,572f483c3196da6edbc404cc9565b771af91351f
+./sulfides/chalcopyrite/ef0d506b0b569ebfd7e2d3adc6855be5df82dd37.jpeg,ef0d506b0b569ebfd7e2d3adc6855be5df82dd37
 ./sulfides/chalcopyrite/43743.jpg,8e7da79b4d900691bba2e5017e559a82dc3bee88
+./sulfides/chalcopyrite/c8f85bf0611c11e847485d9d702d605521216487.jpeg,c8f85bf0611c11e847485d9d702d605521216487
 ./sulfides/chalcopyrite/chalcopyrite-bound-brook-nj.jpg,5fa73b3b8336777b39c35d3227ff01c5a9fb4f66
 ./sulfides/chalcopyrite/chalcopyrite-kansas.jpg,14a07d556a495fd02f97e5a088adc5b198371982
 ./sulfides/chalcopyrite/chalcopyrite-blue-reynolds-mine-missouri-hf.jpg,d824b825c34357655cae95e41473d8052323754d
@@ -1141,6 +1149,7 @@
 ./silicates/kyanite/35fe5f9c6a9634f45ef369aeea1eb4ec18d89186.jpeg,35fe5f9c6a9634f45ef369aeea1eb4ec18d89186
 ./silicates/kyanite/kyanite-black-nova-era-minas-gerais-brazil.jpg,214a21fdf8e9fa11e8f7af4d76a7af37e422de78
 ./silicates/kyanite/kyanite-blue-barra-do-salinas-brazil.jpg,b85ac7c8cec0e4ed68f74d2fbf2a44095679c27d
+./silicates/kyanite/f8dcd2bb9893e93452c607f87d08581e6aebcfa1.jpeg,f8dcd2bb9893e93452c607f87d08581e6aebcfa1
 ./silicates/kyanite/kyanite-pfitzchal-tyrol-italy.jpg,c9dd04887212a5ef23e8a098307efe2bc9ef3cea
 ./silicates/kyanite/kyanite-goias-brazil.jpg,a27374ae7072c24f0f2a57b7d24e05f272f4c0d9
 ./silicates/kyanite/09827894093acea53d0fff21010c98ae94f2d074.jpeg,09827894093acea53d0fff21010c98ae94f2d074
@@ -1339,6 +1348,8 @@
 ./phosphates/apatite/41987.jpg,e4e57c9f814372068d81d4894ca6e7937dc2bfa4
 ./phosphates/apatite/39387641762_4162437c37_b.jpg,b58215c10acd2c0ee95b7a1b4d004e0150ff6b6e
 ./phosphates/apatite/44902.jpg,fe6a8a19609ba7157d307a72e3f055cbb76ce964
+./gypsum varieties/satin spar/2596510492_6cd35c33b0_b.jpg,ab5e0095d5e448d86759984aed512f5dee20af1a
+./gypsum varieties/satin spar/28661579637_b834825276_b.jpg,04c2d62aeb1e8157836699e0a2f30ad2ff268622
 ./gypsum varieties/satin spar/28415041950_26af37ac25_b.jpg,3d679c2736b8aba231b0015ee29ee206e7967729
 ./gypsum varieties/selenite/6965968707_f9fff06311_b.jpg,cafc7d4db5bbc88f3e4cd686c3b8054460de2a19
 ./gypsum varieties/selenite/6651653009_e16b650079_b.jpg,f27f93c1fed8e4302fe8ca169085eaa2391c8e59
@@ -1349,6 +1360,7 @@
 ./feldspar - potassium/microcline/microcline-japan.jpg,36353f846a186393c84d1a7bd114af69102d9063
 ./feldspar - potassium/microcline/7283942888_e67a5268bf_b.jpg,7483e030d37c550eb4f13c75401942b8d7e3a1a5
 ./feldspar - potassium/microcline/microcline-amazonite-colorado.jpg,16e0808bacea5ff62df4ce1470868e049e1ec486
+./feldspar - potassium/microcline/7796536334_6566743e52_b.jpg,896141a7d64eda91bf60b3fe77d8bd230fb96d66
 ./feldspar - potassium/microcline/pink-microcline-pennsylvania.jpg,3ea6dbc8b42ddf0b4403103c1e48ed797c292a46
 ./feldspar - potassium/microcline/7796536472_24749a8d41_b.jpg,368c3f12782e1000dea856f9c8a01d91a9fe3c6a
 ./feldspar - potassium/microcline/orthoclase-baveno-twin-ca.jpg,aceb2524e4c68d70fec43f832b98027eb7c0b8d5
