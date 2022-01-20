@@ -33,14 +33,17 @@
 ./igneous/obsidian/49056411793_362a20fa1c_b.jpg,10854c4254a04e8f4a9b3c47dc84b83dfade9408
 ./igneous/obsidian/49056412553_88f7d18610_b.jpg,33f7e5071a9c01e42232ef9e4c7c444227b6c3bd
 ./igneous/obsidian/49056413228_2dcf78df1b_b.jpg,5de39f341c03a1a2f2b981d2f43d0d4df7d2547d
+./igneous/basalt/3c637df02b80144d33eb7cd9971c927b4e8b1f80.jpeg,3c637df02b80144d33eb7cd9971c927b4e8b1f80
 ./igneous/basalt/3639614879_2e971b5210_b.jpg,70b570f62fc0c5f5bd1b1b416070f584acca9e14
 ./igneous/basalt/4918639727_98c8b0302b_b.jpg,150804f90e562b32d8f772ccc6f3e571afdfba39
+./igneous/basalt/b0a1e681263097968c917fde2d6d132e21f9ba69.jpeg,b0a1e681263097968c917fde2d6d132e21f9ba69
 ./igneous/basalt/5466344557_36ae061fd5_b.jpg,084461758e7a1300640b5f6da4d082d5b852dc68
 ./igneous/basalt/4295640033_a086e1660f_b.jpg,0e36fff4bd798b1333bb976456744beeeb19c521
 ./igneous/basalt/49114754217_a4ab349937_b.jpg,c3ad4858f7112b353a054a48c178d12cb4c2e17f
 ./igneous/basalt/9502391353_69aa724a20_b.jpg,44b980166fec1b37c79de15bdcd767bdd0042bdd
 ./igneous/basalt/323cab5f44d48e34360c91107b5d2c238fc33c34.jpeg,323cab5f44d48e34360c91107b5d2c238fc33c34
 ./igneous/basalt/4873507818_07e8ff122c.jpg,4b4b09a24592247ac0c3ef3247a042fb4e25b3bc
+./igneous/basalt/bf992dee3b5f86b12c626b43fcdbb62d9ca41008.jpeg,bf992dee3b5f86b12c626b43fcdbb62d9ca41008
 ./igneous/basalt/372909019_6d25a64d96_b.jpg,31b1dcf9a6777fded99a15a1c837f8c8b86fc7f4
 ./igneous/granite/50089126331_ec03e3f1b0_b.jpg,ec3011375def826727b4d90c2d910fe6d0ad37a7
 ./igneous/granite/14802441621_55cc816b80_b.jpg,0d9dabc56f6c5b29a59d81df6b9c5bff6c5ae7dc
@@ -733,6 +736,7 @@
 ./(hydr)oxides/corundum/corundum-sapphire-kashmir-pakistan.jpg,74059e846ca3541e82b73fb66d4f8b3357561401
 ./(hydr)oxides/goethite/goethite-graves-mnt-georgia.jpg,25d3902e82798cd688d8bfe1f8bfe71bcac3e31d
 ./(hydr)oxides/goethite/goethite-pseudo-pyrite-pelican-utah.jpg,2db39fcb4bc559dc3e7519397e8bd43b2b4c5227
+./(hydr)oxides/goethite/68d401de9cd478302d22a00e475620f9fdb93f32.jpeg,68d401de9cd478302d22a00e475620f9fdb93f32
 ./(hydr)oxides/goethite/29807717564_606a6e69c1_b.jpg,636e042ce24e57526704104e390d7290e9f9a44d
 ./(hydr)oxides/goethite/stalactitic-goethite-montreal-mine-wisconsin.jpg,7b817d799ee7527a1301eae19f5e7467392781c6
 ./(hydr)oxides/goethite/cb177360fac0e073a3412591f4fcb23a64452119.jpeg,cb177360fac0e073a3412591f4fcb23a64452119
@@ -750,7 +754,9 @@
 ./(hydr)oxides/goethite/goethite-pseuod-marcasite-egypt.jpg,0f12c9998b5074ce887fda451e2beb413d253f05
 ./(hydr)oxides/goethite/goethite-banded-keweenaw-peninsula-mich.jpg,f373eb7282edbfa9d3696e22fd4d21ae14997281
 ./(hydr)oxides/goethite/goethite-lake-george-colorado.jpg,f1f0262b249111602bc80c204c6712cccf47c87d
+./(hydr)oxides/goethite/52a0a85182b31019461d57969ccf50e339f6962b.jpeg,52a0a85182b31019461d57969ccf50e339f6962b
 ./(hydr)oxides/goethite/bd4383f4c88dd5abc72ea963f1fa783287ca232e.jpeg,bd4383f4c88dd5abc72ea963f1fa783287ca232e
+./(hydr)oxides/goethite/facf2ac196e9d63deef9ee1d1c6aac8fa78ec8dd.jpeg,facf2ac196e9d63deef9ee1d1c6aac8fa78ec8dd
 ./(hydr)oxides/goethite/goethite-velvety-lake-george-colorado.jpg,da80167c4b27b48b8182cb1b5c3bce2c76ce1bef
 ./(hydr)oxides/goethite/goethite=botryoidal-mapimi-mexico.jpg,c5152a696e0ffd9d3136fe9161e19e88cc168d6c
 ./(hydr)oxides/limonite/limonite-pseudo-calcite.jpg,801289e56245bf354de3290435501d96c1fcfe28
@@ -831,6 +837,7 @@
 ./sulfides/bornite/bornite-peacock-ore-butte.jpg,41c73a53cf3168868268244e8c32e4bef04a1b52
 ./sulfides/bornite/bornite-dalnegorsk-russia-smithsonian.jpg,89f89eb1e34c520b8ed5b3814088aa3e35be5b05
 ./sulfides/bornite/bornite-butte-montana-dan-evanich.jpg,7a424ffdc91a5ac8b8edf95c645f7249332eabce
+./sulfides/bornite/39dda9b1cc25cf37e9a72caa55b5ec7a7fec4005.jpeg,39dda9b1cc25cf37e9a72caa55b5ec7a7fec4005
 ./sulfides/bornite/f1c6e075e20d5cc6b005cc04cb4a1ad87bcdff57.jpeg,f1c6e075e20d5cc6b005cc04cb4a1ad87bcdff57
 ./sulfides/bornite/bornite-leonard-mine-butte-montana-rl.jpg,54fdcab43af8e779701787dc73f90b6e1c7f8a25
 ./sulfides/stibnite/stibnite-baia-sprie-romania.jpg,dfff4f0a821bfde922b7c8e7bf93a8f347a81217
