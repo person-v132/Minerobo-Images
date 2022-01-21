@@ -319,6 +319,7 @@
 ./carbonates/aragonite/aragoni3.jpg,6566bf7ae51abb61a4af7f7850566e1714aeb308
 ./carbonates/calcite/7brain.jpg,3ea691bbd77f6bca8e25b474beda91ed6a63c144
 ./carbonates/calcite/calcite-egremont-england.jpg,fbf2ca7e39a543cb98154958fd64309c51c2c47b
+./carbonates/calcite/2703582461_c9aa5c5c78_b.jpg,369d7b255dc72c1625dd71dfffa3205f4df64f36
 ./carbonates/calcite/orange-calcite-roosevelt-pennsylvania.jpg,7dbc2097dadf8cd4dcde9c79633ec078727f0865
 ./carbonates/calcite/8platy.jpg,f1431c5d10731662eb64709469ebe0c3001f2cb8
 ./carbonates/calcite/46477.jpg,03f0f59cc7d585440ae27cc94e0dd243066c91f9
@@ -479,6 +480,7 @@
 ./quartz varieties/smoky quartz/ce6bf1b165d22d8f9d29b55342c26d486151370d.jpeg,ce6bf1b165d22d8f9d29b55342c26d486151370d
 ./quartz varieties/chalcedony/tiger-eye-polished.jpg,9becea41f9e585030f8559d6a585699215cd13f9
 ./quartz varieties/chalcedony/red-chalcedony-stalactites.jpg,374d4391871e5cab96a194e252bf17582abd5944
+./quartz varieties/chalcedony/5e78547c9c5f7df5c51fa69fe7d567e2f5fd9e01.jpeg,5e78547c9c5f7df5c51fa69fe7d567e2f5fd9e01
 ./quartz varieties/chalcedony/white-chalcedony-wesley-hills.jpg,14d287c286369504b730e2e852adb035cb3e4ccb
 ./quartz varieties/chalcedony/45691.jpg,6ec7524543b8b04a977e698a30bdc8e380e55d1b
 ./quartz varieties/chalcedony/white-chalcedony.jpg,e7715d59b09d0d03f90e1fb7fc490bf0706af901
@@ -502,6 +504,7 @@
 ./quartz varieties/chalcedony/chrysoprase-brazil.jpg,dd1022051c20d7dc1d4520f563941a521a30e25a
 ./quartz varieties/chalcedony/tigers-eye-rough.jpg,bb246b072fcc207024ff655af50e679c4f102dbd
 ./quartz varieties/chalcedony/aventurine-india.jpg,954ee61502b9748d297f41652c4c1c779f795408
+./quartz varieties/aventurine/875dda02c745c998abf922ca75e32f6432250592.jpeg,875dda02c745c998abf922ca75e32f6432250592
 ./quartz varieties/aventurine/2eaf9e99ebd0c828880068bcc48042fb9124bef7.jpeg,2eaf9e99ebd0c828880068bcc48042fb9124bef7
 ./quartz varieties/milky quartz/15f54a26bc6b4888e194988846c251b8331be090.jpeg,15f54a26bc6b4888e194988846c251b8331be090
 ./quartz varieties/milky quartz/1855d60fd368d2276bb8aad169c053457cc9c95b.jpeg,1855d60fd368d2276bb8aad169c053457cc9c95b
@@ -587,6 +590,7 @@
 ./sedimentary/diatomite/2fb7a45c665fc91f67322d8c878974fd034a0ec6.jpeg,2fb7a45c665fc91f67322d8c878974fd034a0ec6
 ./sedimentary/bauxite/bauxite-georgia.jpg,1c212e0fd6bda050b1e466278c3221599a52b9a5
 ./sedimentary/bauxite/bauxite-guyana.jpg,0ee26970ef0c5d0ae5d09719f32bc8a1f3342082
+./sedimentary/bauxite/ed06adfcc307977cd4d6865f3b176db1e2b9bc1d.jpeg,ed06adfcc307977cd4d6865f3b176db1e2b9bc1d
 ./sedimentary/bauxite/bauxite-pulaski-arkansas.jpg,4b4bd40b8c4151798b3dedf19f0e3346309a001c
 ./sedimentary/bauxite/50501a91fe521609a7759d126697e850a0035887.jpeg,50501a91fe521609a7759d126697e850a0035887
 ./sedimentary/bauxite/d442fa1f06b5f3e332d9074b56be72d95bc0207a.jpeg,d442fa1f06b5f3e332d9074b56be72d95bc0207a
@@ -640,7 +644,9 @@
 ./coal varieties/anthracite/38960276634_80f06c36a0_b.jpg,f513e74e882716121dc3b433e13569c17ca3ef95
 ./coal varieties/anthracite/41557476844_3a20d0e04c_b.jpg,3d0aceffb7d599ba9f3748b8def0bf92d456d423
 ./coal varieties/anthracite/16319380394_d9ec7962e1.jpg,e5fa872bbd916faf85a60f561367ac0832ca26bd
+./coal varieties/anthracite/16321745923_c284e7612b_b.jpg,bb60b5e235dbf805c5477a31acc9cd1856e1f6d9
 ./coal varieties/bituminous coal/29105963614_28e0434c62_b.jpg,9a5ce1a60d352d7bf2bc4329a48714ed6c126a1d
+./coal varieties/bituminous coal/9620bc2fae53007280786ec4128e3496e644774f.jpeg,9620bc2fae53007280786ec4128e3496e644774f
 ./coal varieties/bituminous coal/24800381637_b84db877f9_b.jpg,a14c0c8441182c2f0c5d75b017e27a0b4436400f
 ./coal varieties/bituminous coal/facdf6794f0964fcab13f5ef6c7f43aaccab19cb.jpeg,facdf6794f0964fcab13f5ef6c7f43aaccab19cb
 ./coal varieties/bituminous coal/42231955182_7914d877c0_b.jpg,5f3e394ce4be60ec21a533f9b5e82bc34f561ce1
@@ -1055,6 +1061,7 @@
 ./silicates/tourmaline group/6721eeccfffefa3598b1b2762596d296d48b44e8.jpeg,6721eeccfffefa3598b1b2762596d296d48b44e8
 ./silicates/tourmaline group/ee5fb0c2dabdfa277fc106bf54f1c7bf5d1e4d52.jpeg,ee5fb0c2dabdfa277fc106bf54f1c7bf5d1e4d52
 ./silicates/tourmaline group/b26e91b1154342b713890447e97c1e01c6358a7c.jpeg,b26e91b1154342b713890447e97c1e01c6358a7c
+./silicates/tourmaline group/6bd4f48593794add613e4f491973838ebf5be0da.jpeg,6bd4f48593794add613e4f491973838ebf5be0da
 ./silicates/talc/talc-dendrites-cyprus-ennis-montana.jpg,c2dcedd9dd506e8ef77cd7a31b810dbf41f616dc
 ./silicates/talc/talc-pilot-maryland.jpg,a1a2cad426ec298cd5fe6563ea211d68265604cc
 ./silicates/talc/green-talc-chester-vermont.jpg,dd6f8e84dcb5c9238d53566860cb5a83de06185f
