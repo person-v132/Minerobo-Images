@@ -72,7 +72,6 @@
 ./sandstone varieties/arkose/a4144933e78044c98f0526390ac73302c865f4b0.jpeg,a4144933e78044c98f0526390ac73302c865f4b0
 ./sandstone varieties/arkose/d66aff80fbe4e2878058f2af4e568b7fa5335d50.jpeg,d66aff80fbe4e2878058f2af4e568b7fa5335d50
 ./sandstone varieties/arkose/a1a6ca944ccdff0f03d7106335363436bf561e80.jpeg,a1a6ca944ccdff0f03d7106335363436bf561e80
-./sandstone varieties/quartz sandstone/7255f8dded5bc9c0a5d74af1af1fa476d7739545.jpeg,7255f8dded5bc9c0a5d74af1af1fa476d7739545
 ./garnet group/almandine/almandine-garnet-russel-massachussetts.jpg,37c27e89cced4e87626bb67ffd0b397232c9d41b
 ./garnet group/almandine/almandine-barton-mine-gore-mountain-new-york.jpg,c9da64a8870cd5db5b2597a611fc0a8a91fe1b82
 ./garnet group/almandine/almandine-garnet-spruce-pine-north-carolina.jpg,0681bed11a7a65014b2b084b1ccdf3a8958658d4
@@ -627,6 +626,7 @@
 ./sedimentary/conglomerate/13674ba3e4d7e92298444af6c3e2be2d84c8d9fa.jpeg,13674ba3e4d7e92298444af6c3e2be2d84c8d9fa
 ./sedimentary/conglomerate/0a10474fa78dd2a1ca1fae6f68b619eb6f430c64.jpeg,0a10474fa78dd2a1ca1fae6f68b619eb6f430c64
 ./sedimentary/conglomerate/82ec0eed64c759b355923b7e55828e665b0e4071.jpeg,82ec0eed64c759b355923b7e55828e665b0e4071
+./sedimentary/conglomerate/7255f8dded5bc9c0a5d74af1af1fa476d7739545.jpeg,7255f8dded5bc9c0a5d74af1af1fa476d7739545
 ./sedimentary/conglomerate/07c8cf365d4cb14bce0bde97b4d118b890ea200d.jpeg,07c8cf365d4cb14bce0bde97b4d118b890ea200d
 ./sedimentary/conglomerate/9e3dd36b99c6c73f8783dac0f547a0ae7946e00d.jpeg,9e3dd36b99c6c73f8783dac0f547a0ae7946e00d
 ./sedimentary/conglomerate/51f859f80d379f4d293d6521e056f72f70e8b534.jpeg,51f859f80d379f4d293d6521e056f72f70e8b534
@@ -681,7 +681,6 @@
 ./(hydr)oxides/pyrolusite/large_SMG00089900.jpg,18c8858d0adcb0c2818fd87290023189e8ae9d85
 ./(hydr)oxides/pyrolusite/pyrolusite-stalagtite-kalahari-s-african.jpg,63a50e7f8823c422949d04293c203b52d45d97b0
 ./(hydr)oxides/pyrolusite/pyrolusite-pseudomorph-manganite-box-canyon-alamo-arizona.jpg,5b4609a615e432027106bc67d0dd78def05f1bd0
-./(hydr)oxides/pyrolusite/6241420_3da52f1aa2_b.jpg,ec86d552413738e72a95a145ccf52abb181f375b
 ./(hydr)oxides/pyrolusite/pyrolusite-tizi-tichika-pass-atlas-morocco.jpg,5beb9a951e0325a362e21b481c7e9a382dfa0ddd
 ./(hydr)oxides/pyrolusite/pyrolusite-quartz-morocco.jpg,e804a2dab666c6c6914ebac834fc2bed51032c1c
 ./(hydr)oxides/pyrolusite/pyrolusite-ilfield-harz-thuringia-germany.jpg,859397c669193e7c4d2bd9d70450b435f1f3f115
@@ -1026,7 +1025,6 @@
 ./silicates/olivine/olivine-peridot-pyramidal-pakistan.jpg,a0b306b24536702b123a2a234ca0617433aef5e0
 ./silicates/olivine/olivine-peridot-sidamo-ethiopia.jpg,26aefb36f18131558b2d5932242857c217c43a7e
 ./silicates/olivine/olivine-forsterite-notre-dame-du-laus.jpg,a07e1b6664b538ee9237b4a0fdf216390b836001
-./silicates/olivine/olivine-fayalite-crestmore-ca-amnh.jpg,89b12303b52c8a4443c95eda1366deb9806013db
 ./silicates/olivine/85d12b24d8bb55876ae94306111e32e496e5e488.jpeg,85d12b24d8bb55876ae94306111e32e496e5e488
 ./silicates/kaolinite/16dadc81f64d877e0f3d1ce704f08fa59ebe9410.jpeg,16dadc81f64d877e0f3d1ce704f08fa59ebe9410
 ./silicates/kaolinite/ebdc4919c5f36c5efa5097c83f56fd2f9e50ffb3.jpeg,ebdc4919c5f36c5efa5097c83f56fd2f9e50ffb3
@@ -1220,7 +1218,6 @@
 ./limestone varieties/oolitic limestone/45243334395_fddaf172b4_b.jpg,1baaa5ce08713d56b19680729f706309308c2886
 ./limestone varieties/oolitic limestone/44338620240_252b781fb6_b.jpg,81e0e3b50a0624188027073b0d4d80503b7cbea7
 ./limestone varieties/fossiliferous limestone/16798442485_ea0a5b8253_b.jpg,d7a55af36cf22c91aed250975fd512083fe36c08
-./limestone varieties/fossiliferous limestone/38772120595_bd4b825d9a_b.jpg,a8e439f1c6937ac71414e4bf2a80da87139f2dc4
 ./limestone varieties/fossiliferous limestone/15033339297_f0276facd3_b.jpg,8bec345b0bb25287c8de21e30dabeee460505396
 ./mica group/lepidolite/34922390_8348e87c26_b.jpg,7587f599681d3942d566d5b811d03fbadaedf62c
 ./mica group/lepidolite/lepidolite-dunton-newry-maine.jpg,ed048de7ad8fc0831b93900991829665e208c580
