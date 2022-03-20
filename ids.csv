@@ -18,7 +18,6 @@
 ./pyroxene group/augite/augite-bohemia-czech.jpg,0f08e8db909daebefe8086f13e3010057b2b70a9
 ./pyroxene group/augite/augite-jeffersonite-franklin.jpg,0c296f7d69d405be73f2bb2b24d95985f1786ff4
 ./pyroxene group/augite/5245261076_8b948ea6d9_b.jpg,c693cd3553f89cbf3099da8ed86d6da1812457f8
-./pyroxene group/augite/39387632832_1beef2a986_b.jpg,3da1f91bcb7b1df0cadc8bb71714fad82707e912
 ./pyroxene group/augite/augite-diamond-lake.jpg,9847e8660a319c5b6f58baeb90d983b3e8e3b634
 ./pyroxene group/augite/augite-twins-arusha-tanzania.jpg,e662f92f4d43dd30986425bf016dc851d9e97203
 ./pyroxene group/augite/augite-franklin-nj-smithsonian.jpg,fee1c939c0606a1aab00ea0cd282a96e13f9e40c
@@ -46,7 +45,6 @@
 ./borates/ulexite/ulexite3.jpg,1b7eee805097ba9e84c48722932d2b6869e56c06
 ./borates/ulexite/yellow-ulexite-kramer.jpg,d90508b67b42a293944ded8c1759c049abfb2f23
 ./borates/ulexite/ulexite-tv-rock-boron-kern-co-california.jpg,3d95a6dbcfbd35b54eb8f61a0b49953821891a98
-./borates/ulexite/27840469989_82b19a14e6_b.jpg,b41ff582811fd649d39056939f9585af097b5f8e
 ./borates/ulexite/ulexite-acicular-boron.jpg,b280e3c93a3d33d8a3e879e14bdff98249f12ce9
 ./borates/ulexite/Ulexite-Television-Stone-Kramer-Kern.jpg,fe36e9a31cd15c21c12651e9e7a263a92d495f1e
 ./borates/ulexite/ulexite-acicular-crystals-boron-california.jpg,3ba08c9f3d415e1597de922d2ba9381eedfbf661
@@ -142,7 +140,6 @@
 ./mica group/muscovite/muscovite-slice-lincoln-carolina.jpg,0117130ae54a5c8e7d22fe0e0352e2cb719c9641
 ./mica group/muscovite/rose-muscovite-taos-new-mexico.jpg,11bad2e611d422614d2cbde71c13d364acc245c8
 ./mica group/muscovite/2166409762_a02562aa9d_b.jpg,96b659b653cea5ee2e1c585fed14af8410e3ff3e
-./mica group/muscovite/38897871414_afba882668_b.jpg,cac29b19dc3a3038298bed75ad68da49a6c7ceba
 ./mica group/muscovite/muscovite-mitchell-carolina.jpg,6e60908f1f05e81ddcbe03069e8b14c7f25c5dce
 ./mica group/muscovite/muscovite-green-north-carolina.jpg,f28f05c0bfaeae76aac4e9285419b0b0b91a921e
 ./mica group/muscovite/muscovite-california.jpg,c9916adc1915e895624c78312366da8ffbb5a481
@@ -155,7 +152,6 @@
 ./mica group/muscovite/muscovite-fuschite-brazil.jpg,12ec42d210a0e8f16b56a4854c2431784bef25e7
 ./mica group/biotite/biotite-cranberry-lake-nj.jpg,61b3ec7a26cf2ab3ba5aefc0087ddfeaa844c147
 ./mica group/biotite/biotite-beechy-bottom.jpg,f659ac08261921741977d5239f850a3d965fad1d
-./mica group/biotite/39417644811_52d724e360_b.jpg,5fe17097c9f7264256ba3f98ca267616032fb841
 ./mica group/biotite/32075636786_329325d022_b.jpg,93cae4425d5e1905c8167ccd4387514b8f238fa5
 ./mica group/biotite/31739438210_727a89c2bc_b.jpg,85426c3ebcd1e36f6579462047748a7c8396466d
 ./mica group/biotite/biotite-manganophyllite-sweden.jpg,6ff52c23e494045a78ba7239895bdc80b638c4ad
@@ -217,7 +213,6 @@
 ./native elements/diamond/diamond-kimberlite-matrix.jpg,0774402b58486609ed478fc9e5d922157edf97bd
 ./native elements/diamond/dodecahedral-diamond-crystal.jpg,d318785bf567a61b878184908a9d49851a6dc89b
 ./native elements/diamond/diamond-majhgawan-pipe-panna-madhya-pradesh-india.jpg,25b4c1c4bb852471300bf93deac6e92bde321eb5
-./native elements/graphite/39585268001_d3daac94b8_b.jpg,e0cc216b02cf75099256e0cfea6bc3e37ae448eb
 ./native elements/graphite/graphite-spain.jpg,56a4faabe155bcd08ed8c946539a3911fd0abd84
 ./native elements/graphite/graphite-pine-island-new-york.jpg,91cc2f2ed47830b7954f1bd17518c8d63ebd491d
 ./native elements/graphite/graphite-amity-ny-glenn-rhein.jpg,cb076bedc6fb7ef8ff986707639b2acfe486d568
@@ -668,7 +663,6 @@
 ./sulfides/pyrite/pyrite-nodule-chester-pa.jpg,f4b10c1ddc35e1f8e127cc345fb92d4142905ae0
 ./sulfides/pyrite/pyrite-rainbow-volga-river-ulyanovsk-russia.jpg,6ca7645602ee3b0972db4cee8016720a962a306f
 ./metamorphic/quartzite/3325507755_f9e1813d63_b.jpg,a0958d6ed2aab245d292c7db0bd888caf650339e
-./metamorphic/quartzite/27840457419_ed15675311_b.jpg,062537021c443eeb8ec8368e8c5abd24566cbe8c
 ./metamorphic/serpentinite/339745513_a4c90d9970_b.jpg,e5d94bc166efac651247777489a3cd4c163ce9b1
 ./metamorphic/serpentinite/49657253091_4ece373e87_b.jpg,bc5a881335129f13ad6e943ce6e10431b111f8d7
 ./metamorphic/serpentinite/49657253596_7bc1257ddb_b.jpg,3da5b0161716f0dd83ef2632c5ca4a37fe156188
@@ -759,7 +753,6 @@
 ./phosphates/apatite/apatite-nagar-hunza-pakistan.jpg,6d01de1bf268c1710b3b22391126c8e2a71edde8
 ./phosphates/apatite/apatite-calcite-yates-otter-canada.jpg,3c581c8d4635852c934d94cbb02b5c95791903d7
 ./phosphates/apatite/Purple-apatite-maine-cookeite.jpg,057f7df4640a8ea759da880c76cd186fabfd1e4f
-./phosphates/apatite/39387641762_4162437c37_b.jpg,b58215c10acd2c0ee95b7a1b4d004e0150ff6b6e
 ./phosphates/apatite/apatite-renfrew-ontario.jpg,7d4ac256789bcd4bfd268843c328f6ae6a6d4362
 ./phosphates/vanadinite/mibladen-morocco-thick-xls.jpg,18884692b5777ee5b9e0f3290a10d8a2959f1927
 ./phosphates/vanadinite/22392252528_4d0ef2f563_b.jpg,45201da10a3343a9a5549cdbfa73d532da529563
@@ -805,7 +798,6 @@
 ./feldspar - plagioclase/albite/albite-pericline-twins.jpg,f28e33f6ce9b538dbd7ed96b327beb983b216b5e
 ./feldspar - plagioclase/albite/albite-himalay-san-diego.jpg,e268ef86e51f279ae2fd529953fe17f3bad6b34c
 ./feldspar - plagioclase/albite/albite-pederniera Mine.jpg,bc9b3b1bbe68e237c414b636d4cfa6e214867db3
-./feldspar - plagioclase/albite/47054482011_f8c90fd71d_b.jpg,c7d58d8dde1fc79ab4f9e8ae469a9b8e175772d2
 ./feldspar - plagioclase/albite/albite-branchville-ct.jpg,d081aacc26818db14ab28dc7196a611890a45c66
 ./feldspar - plagioclase/albite/59159268_c11c2bfe86_b.jpg,80b5eddd0c5345d8bdc7afa6e2bbe00392cb695c
 ./feldspar - plagioclase/albite/albite1.jpg,6d3075012ce026c657ca85fb550df8f293004147
@@ -869,7 +861,6 @@
 ./amphibole group/hornblende/ferrohornblende-tory-hill-ontario.jpg,2574254a0d50f5c468abf67ee09fd07af8f10c60
 ./amphibole group/hornblende/hornblende-in-quartz-cumberland-rhode-island.jpg,9417ef683e2b3e47626665f2fe4c6933fa93b4c6
 ./amphibole group/hornblende/4801883026_9751a8e574_b.jpg,a19349939eedb5175d75d4b14c66c88eff06c0aa
-./amphibole group/hornblende/27828886009_a651ccab7d_b.jpg,6c28fb1493974f83c4e38d1d29754fa35a9573ed
 ./amphibole group/hornblende/ferrohornblende-bear-lake-tory-hill-canada.jpg,2730977e7ac9936bbb12a70298d4976e8e664a21
 ./amphibole group/hornblende/4895429230_3ed4745f0f_b.jpg,b31b42c0a6da70f3a30602a22b71a589fb85e4c1
 ./amphibole group/hornblende/6816442824_3755266511_b.jpg,89c12e2c17afa5bc212fdd6745277784e7c4e75f
@@ -879,7 +870,6 @@
 ./amphibole group/hornblende/hornblende-goslerwand-tyrol-austria.jpg,2b4a5bd1e7e22edfb40eaa8c68e861851b477db5
 ./amphibole group/tremolite/green-tremolite-selleck-rd.jpg,e33c440f43ee35fdddb32f2358ef3318c7aedfd0
 ./amphibole group/tremolite/2261960676_983871f544_b.jpg,3d5416c9231bf995d63c4522a3bcc240607e14c7
-./amphibole group/tremolite/25746708778_e9dc337aa5_b.jpg,2fea276c5cce28b699a6140e7d64fba4e88c3543
 ./amphibole group/tremolite/green-tremolite-governeur.jpg,b00e45932d12b86ebfb81a2b716b880ae611c2f8
 ./amphibole group/tremolite/chrome-tremolite-ontario.jpg,45a4e91764abfa717176d466b4819cd6dc32ff71
 ./amphibole group/tremolite/tremolite-hexagonite-talcville.jpg,3605a3440e008c55efed7dbb72294bdba6d54282
@@ -1005,7 +995,6 @@
 ./halides/halite/halite5.jpg,6295f36367c3f7173befd0984d8a081b5a7f784a
 ./halides/halite/halite-orange-carlsbad-new-mex.jpg,109fc5817000553bea4cc0d2e00786829152a133
 ./halides/halite/halite-rocanville.jpg,7aa346ad9340343ea771c7c084e71681e2e9792f
-./halides/halite/38893026044_7efdcce4d9_b.jpg,a98bd7b3f126af45ee20bd54c7a6ca04f1e37c35
 ./halides/halite/Halite-Intrepid-Potash-East-Mine-New-Mexico.jpg,6d943f1b83481af89172ef22d54ab0bdfb3afcaf
 ./halides/halite/8246315745_1c8aab9120_b.jpg,310e37d6e905eece02fbde42ae2946e33bdfb021
 ./halides/halite/halite1.jpg,4f5144ead12cf66cb62c682a13a9757dc709b740
@@ -1373,9 +1362,7 @@
 ./(hydr)oxides/hematite/45116det.jpg,e9a54695f60d2896f9052cb57b65fd59dfd1670e
 ./(hydr)oxides/hematite/hematite-kidney-ore-dolomite-florence-mine-england.jpg,1eb7a729256803627a642e722ec6d82b80806907
 ./(hydr)oxides/hematite/hematit4.jpg,456c8075e65aa97f8af537ccbdb61666e083a493
-./(hydr)oxides/hematite/46065842321_bf73df6026_b.jpg,e40988265c4402ffd6d2660cd330c7baf4924f51
 ./(hydr)oxides/hematite/50303010782_77901541b2_b.jpg,5ccbf70c5067ce3475993017ef40638adddfc61a
-./(hydr)oxides/hematite/25730727838_ff334cfc98_b.jpg,efec2f74907dfc3f55618f59300114cbadd2315d
 ./(hydr)oxides/hematite/hematite-iridescent-graves-mnt-georgia.jpg,cfa26d6efc534ceeb35ebe3043c55672f58099d3
 ./(hydr)oxides/hematite/46467.jpg,988b5be8aaad1b6a5fd130840f8877f8e4982a78
 ./(hydr)oxides/hematite/hematite-michigan.jpg,73e009a7bb3180db3971629599896d04eebddd05
@@ -1383,7 +1370,6 @@
 ./(hydr)oxides/hematite/hematite-rainbow.jpg,07f17a7ca2aa553370305ff8b1885cf4c070da5a
 ./(hydr)oxides/magnetite/magnetite-slab-mesabi-range-minnesota.jpg,cb23bd794114a7f665d01e8c881c26ee5f6de9bb
 ./(hydr)oxides/magnetite/magneti1.jpg,fb78702bf9229d946388be99bf65b0339f4072cb
-./(hydr)oxides/magnetite/39576785452_6cd424c08e_b.jpg,25255b02f1fb594ee4e0e695b0c8dfd3535edb56
 ./(hydr)oxides/magnetite/50355765958_b29ddcd75e_b.jpg,accba75e81b30b57d6dbbc5f58ea3c1ab5e318ca
 ./(hydr)oxides/magnetite/50355767033_6c67efef89_b.jpg,3a1f2fb4906c0f65ea3788e13a102ff5fabad042
 ./(hydr)oxides/magnetite/4571028081_351a48b2af_b.jpg,6419a843195d37aef877190e3f2662b481d69f78
@@ -1441,7 +1427,6 @@
 ./igneous/obsidian/49057142962_283c888481_b.jpg,a1ea8d6f0ddd55dbbb38cc97367f516034450caa
 ./igneous/obsidian/49057144017_9892abb3b4_b.jpg,cda8a7f03e36bdc4b3df95c5950d3779106c6e9a
 ./igneous/obsidian/49056412378_5e6559a211_b.jpg,c567cccc927395efdd8ae5adb139f1889cf041c0
-./igneous/gabbro/39627405202_d7e92c5283_b.jpg,92f21d39f9d85eab82f9a140f442aec86a87ceaa
 ./igneous/gabbro/92923a9cf89688029f3bd6778f6dfb5e3d0609e9.jpeg,92923a9cf89688029f3bd6778f6dfb5e3d0609e9
 ./igneous/gabbro/5005009991_312f337881_b.jpg,b95039200269f89f28adf9e10dedd9dd5f73eecf
 ./igneous/gabbro/4983521308_ab8488eae5_b.jpg,af2752bb3420c5b20e155ec5eb38840800ac8d26
@@ -1469,11 +1454,9 @@
 ./igneous/diorite/16542660847_b88101c3f9_b.jpg,640732c914a77eba95c257f22a9c41c5f222bca0
 ./igneous/diorite/50593018067_6049ed616f_b.jpg,3bb615981614c789b6340f0263ec97b205c6f8b3
 ./igneous/diorite/50592887741_a5a3d098ba_b.jpg,a887765229f88bb6651de40fbe3a9d5f2a7454ad
-./igneous/diorite/27879456709_935bee1e16_b.jpg,80a3a826fc75725e1bcf6234045f99362c52dd4e
 ./igneous/diorite/5115458217_55b335037f_b.jpg,7413592246dcf49cd85286c0081e8d81ca0bbb2f
 ./igneous/diorite/5116094820_5f98b85cd7_b.jpg,f6d621553d95f56e31b83a9c81bde6ddb4c3110b
 ./igneous/scoria/d94c7e81b0ac3b32a963c3659d15c91af5b67430.jpeg,d94c7e81b0ac3b32a963c3659d15c91af5b67430
-./igneous/scoria/39669390031_5487ef1136_b.jpg,74ece20b5a0fcc274a6bb27887a4e2aec343f537
 ./igneous/scoria/78819f5f85338ffe09eb500f33ebdb2d78ca1363.jpeg,78819f5f85338ffe09eb500f33ebdb2d78ca1363
 ./igneous/andesite/5168254564_e1bd59eafe_b.jpg,62fa8abd3edcb54fb270a29b2e903c37286f7275
 ./igneous/andesite/5167588633_ffc4e9ecb2_b.jpg,0435d6af3728aa80f201ae75bedc76d19976d9c1
@@ -1638,7 +1621,6 @@
 ./coal varieties/bituminous coal/870f77ce8aca98ee108a31dd9081382b77e81264.jpeg,870f77ce8aca98ee108a31dd9081382b77e81264
 ./coal varieties/bituminous coal/29651437371_e18b4dd1c7_b.jpg,0fdacf581c41ffac26171effd03f603b87075e1c
 ./coal varieties/bituminous coal/3f745d8a6798e2187fde5a718c65fbda30ad9c2a.jpeg,3f745d8a6798e2187fde5a718c65fbda30ad9c2a
-./coal varieties/bituminous coal/24800381637_b84db877f9_b.jpg,a14c0c8441182c2f0c5d75b017e27a0b4436400f
 ./coal varieties/bituminous coal/29105963614_28e0434c62_b.jpg,9a5ce1a60d352d7bf2bc4329a48714ed6c126a1d
 ./coal varieties/bituminous coal/31329447372_efdc169cf9_b.jpg,f48fd69d21d30f7ec0366dc0d3757fc0fc3aeb30
 ./coal varieties/bituminous coal/9620bc2fae53007280786ec4128e3496e644774f.jpeg,9620bc2fae53007280786ec4128e3496e644774f
@@ -1651,5 +1633,4 @@
 ./coal varieties/anthracite/16941787095_1a01cddfca_b.jpg,6a8b6072853a2ab6b33940bce7f0f1d47cbafaf1
 ./coal varieties/anthracite/16319380394_d9ec7962e1.jpg,e5fa872bbd916faf85a60f561367ac0832ca26bd
 ./coal varieties/anthracite/41557476844_3a20d0e04c_b.jpg,3d0aceffb7d599ba9f3748b8def0bf92d456d423
-./coal varieties/anthracite/38960276634_80f06c36a0_b.jpg,f513e74e882716121dc3b433e13569c17ca3ef95
 ./coal varieties/anthracite/49143866616_394a8a91b5_b.jpg,c8be2440e81830e06096b06bfd130d74610aac7b
