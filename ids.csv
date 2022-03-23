@@ -25,10 +25,12 @@
 ./pyroxene group/augite/augite-fassaite-pakistan.jpg,24fc0f7dfdce09d39b583eeab68f2094e7c559ea
 ./pyroxene group/spodumene/spodumene-barrus-farm-goshen.jpg,5d2c88bc093653d664c3d03d272eaa1eaf42658e
 ./pyroxene group/spodumene/spodumene-kunzite-pala-san-diego.jpg,5f4e28485cf536e92b0371636f64c4c7d049e5a6
+./pyroxene group/spodumene/40a7640ee4500b595f9a130904d661aa3deabb5c.jpeg,40a7640ee4500b595f9a130904d661aa3deabb5c
 ./pyroxene group/spodumene/spodumene-branchville-ct.jpg,6324a81964046a6114ade3be96644a705c21d303
 ./pyroxene group/spodumene/spodumene-clear-darra-i-pech-afghanistan.jpg,2d2499e3cb00bf229278eb08eeca519e9663ddeb
 ./pyroxene group/spodumene/spodumene-green-mawi-afghanistan.jpg,f18105795fa5c917238618f03c389f3089ef18aa
 ./pyroxene group/spodumene/spodumene-hiddenite-n-carolina.jpg,56f7493b366e6a125ae351f003087629fa3b39f7
+./pyroxene group/spodumene/d5be34128af987c8235cf154cf350f128e1c2572.jpeg,d5be34128af987c8235cf154cf350f128e1c2572
 ./pyroxene group/spodumene/spodumene-kunzite-madagascar.jpg,ac0386effaaa068fb96832b59b972e99bfaf3766
 ./pyroxene group/spodumene/spodumene-walnut-hill-mass.jpg,64ab1d36e9955c6d357b26b5c83e5a5753d7aaac
 ./pyroxene group/spodumene/spodumene-kunzite-multicolored.jpg,32926c450d38b50556af60f56d7f3073237b2820
@@ -104,7 +106,12 @@
 ./sedimentary/diatomite/2fb7a45c665fc91f67322d8c878974fd034a0ec6.jpeg,2fb7a45c665fc91f67322d8c878974fd034a0ec6
 ./sedimentary/diatomite/f5749edee78bdd477bdf189237f6878cb4f7f57d.jpeg,f5749edee78bdd477bdf189237f6878cb4f7f57d
 ./sedimentary/diatomite/35bc924c04fc892b4b1d695211a4000cb944258d.jpeg,35bc924c04fc892b4b1d695211a4000cb944258d
+./sedimentary/breccia/5ce6f2dec5f0de67e05905b2fbe2088229a4dac8.jpeg,5ce6f2dec5f0de67e05905b2fbe2088229a4dac8
 ./sedimentary/breccia/c02bd05c06ccb9f8554eb36dd29c4346d09a3632.jpeg,c02bd05c06ccb9f8554eb36dd29c4346d09a3632
+./sedimentary/breccia/87d9dd4cb32d41bb7e60be5c4d70ad20cc664171.jpeg,87d9dd4cb32d41bb7e60be5c4d70ad20cc664171
+./sedimentary/breccia/caa981d2298ef34ca2f309ae1380547b42157d69.jpeg,caa981d2298ef34ca2f309ae1380547b42157d69
+./sedimentary/breccia/dd51c426769241c6a668e8bcd841f4613aedbb8b.jpeg,dd51c426769241c6a668e8bcd841f4613aedbb8b
+./sedimentary/breccia/a727f8906fa57ce11ee9a4587d603f4a78dc4767.jpeg,a727f8906fa57ce11ee9a4587d603f4a78dc4767
 ./sedimentary/breccia/13ca9aab62c384cb35b5ec24d4e6c1444087b996.jpeg,13ca9aab62c384cb35b5ec24d4e6c1444087b996
 ./sedimentary/rock salt/a7f280fd3ae5882b078dad62d5d509ccedf0a78b.jpeg,a7f280fd3ae5882b078dad62d5d509ccedf0a78b
 ./sedimentary/rock salt/ae09dd58bcde87fda6ac70cf45b03465cd68905b.jpeg,ae09dd58bcde87fda6ac70cf45b03465cd68905b
@@ -118,6 +125,7 @@
 ./sedimentary/rock salt/23f3a578822cd1f7614c0394f74722f693075fb6.jpeg,23f3a578822cd1f7614c0394f74722f693075fb6
 ./sedimentary/rock salt/6341717a44ab00a5972ea2e5d4382f20f7f4499e.jpeg,6341717a44ab00a5972ea2e5d4382f20f7f4499e
 ./sedimentary/rock salt/93ff92a442b17f4adda86ddf5db4a8f4cd8ceb38.jpeg,93ff92a442b17f4adda86ddf5db4a8f4cd8ceb38
+./sedimentary/chert/6f34caf976dd8e7482e05d5cd3871f06bc8361b4.jpeg,6f34caf976dd8e7482e05d5cd3871f06bc8361b4
 ./sedimentary/chert/fcd508bad0464100507ae105d2a47b11d8343c59.jpeg,fcd508bad0464100507ae105d2a47b11d8343c59
 ./sedimentary/chert/6a22d18ba313224e3d03d2ff9bf3dd833fa6e831.jpeg,6a22d18ba313224e3d03d2ff9bf3dd833fa6e831
 ./sedimentary/chert/b50b0e852d70c5a2cfccaa1fa6687ee1e53e7ec1.jpeg,b50b0e852d70c5a2cfccaa1fa6687ee1e53e7ec1
@@ -286,6 +294,7 @@
 ./silicates/willemite/willemite-yellow-tsumeb-namibia.jpg,e5d5024c9ea3735c102381b074885da3debe4180
 ./silicates/willemite/willemite-red-green-franklin-new-jersey.jpg,befa19acb7de5b1ddc1b15f01bf4fa87b4118221
 ./silicates/willemite/14cef1a68b908ce4b0e7a8f9b28325638cbbb09c.jpeg,14cef1a68b908ce4b0e7a8f9b28325638cbbb09c
+./silicates/willemite/632677498026ece46aa7e393ec30a8deae3e13bb.jpeg,632677498026ece46aa7e393ec30a8deae3e13bb
 ./silicates/willemite/willemite-green-franklin-new-jersey.jpg,1b4f4618bbc506567383f0bae35a08ff464bfee8
 ./silicates/willemite/willemite-franklinite-calcite-sterling-hill-new-jersey.jpg,11bdff225d8f6fb2650adfc6f9eb5a1ee4f5a99e
 ./silicates/willemite/willemite-green-franklinite-franklin-nj.jpg,92db9112fd9abe9e4303af2ab79fa6fa21df3db6
@@ -525,6 +534,7 @@
 ./sulfides/sphalerite/sphalerite-trepca.jpg,735fd44a7bd1b9adcaa691260669fac73e9e8882
 ./sulfides/sphalerite/45864.jpg,7a338afb138c0f7f049e601681e83693f546fdc0
 ./sulfides/sphalerite/sphalerite-iron-cap-mine-arizona.jpg,1c0de8f4b94d32910d5dada4bdcc98c7365748fa
+./sulfides/sphalerite/ac040b7ab3d460ecd8d376e6efbbad2f87e3b34b.jpeg,ac040b7ab3d460ecd8d376e6efbbad2f87e3b34b
 ./sulfides/sphalerite/43835.jpg,cba63ac9943400ca398d2c320d3f9ae781558950
 ./sulfides/sphalerite/sphalerite-zca-mine-talcville-ny.jpg,4beada1ca29e115c5f698b72790b2e429a187eaa
 ./sulfides/sphalerite/sphaler2.jpg,5f64442193a1bd8c49246b3b1c2aa5aab3a0517c
@@ -661,6 +671,8 @@
 ./metamorphic/gneiss/49155412573_68bb69fc57_b.jpg,adfb34f20bcd4d29d1419cdba841298d08062e09
 ./metamorphic/gneiss/49155732233_30a1579119_b.jpg,869533879e5a7f5bcba45a96ff594fc3d44bf156
 ./metamorphic/gneiss/174944548_f3068b0c4c_b.jpg,46d079f33a72f78af8a2344f1cfb6ea978069eb3
+./metamorphic/phyllite/b8affcb55706c72e384aeba1485ed5446c2ade73.jpeg,b8affcb55706c72e384aeba1485ed5446c2ade73
+./metamorphic/phyllite/6990ff43e55b32b43fd51e701e8fafdd49738d4b.jpeg,6990ff43e55b32b43fd51e701e8fafdd49738d4b
 ./metamorphic/amphibolite/6723121739_51ac30852f_b.jpg,7a336ebb409ff15c16010831927e8c6d965eb506
 ./metamorphic/amphibolite/4927358303_4aae8c80fc_b.jpg,93adced62496bc1d9dad08f8c22be9ba6a20a77e
 ./metamorphic/amphibolite/49894042422_f74576242a_b.jpg,35775eb3638c1085992ea09d1f8a73d532beb216
@@ -671,6 +683,8 @@
 ./metamorphic/marble/82da8e184d38bb35a9ab4ded1cc4acd9aa9327ea.jpeg,82da8e184d38bb35a9ab4ded1cc4acd9aa9327ea
 ./metamorphic/marble/6710475e2b34336e7f7d48a962d4c9a6ad014947.jpeg,6710475e2b34336e7f7d48a962d4c9a6ad014947
 ./metamorphic/marble/a9251b28855d915f8c3717f5ab43a5a0664ed1c9.jpeg,a9251b28855d915f8c3717f5ab43a5a0664ed1c9
+./metamorphic/marble/0d4c39e1815d2e80a5dbfba785106ae0c25e24d4.jpeg,0d4c39e1815d2e80a5dbfba785106ae0c25e24d4
+./metamorphic/marble/ee292fe98be975d28fde83b9980475efaacf6978.jpeg,ee292fe98be975d28fde83b9980475efaacf6978
 ./metamorphic/marble/1078a080533aac7f0b29072a2b2889fd9ac0231b.jpeg,1078a080533aac7f0b29072a2b2889fd9ac0231b
 ./phosphates/turquoise/turquoise-crystals-lynch-station-virginia-smithsonian.jpg,3affb2aea4b4f16cd79a6d100fc794922bd85a3c
 ./phosphates/turquoise/turquoise-widow-tonopah-nevada.jpg,f173cb1d163b8ff5ab69fdbf28d35c3dc2c42633
@@ -920,6 +934,8 @@
 ./sulfates/barite/barite-ball-elmwood-mine-tennessee.jpg,1f8364ff30710eb1fee497ff6363e074f35f9bdf
 ./sulfates/barite/Yellow-barite-leadville-colorado.jpg,bbb8c3aeb838ebeff87d4737965aebe6d737a63d
 ./sulfates/barite/46206.jpg,8a4671474ecde11c8223dcf250c34807d23d3774
+./sulfates/celestite/435df9f649a22c5aaac644c9363ca46b30919bb8.jpeg,435df9f649a22c5aaac644c9363ca46b30919bb8
+./sulfates/celestite/2e7e77e6760deac07c4c3bf95cc404f4c00b8420.jpeg,2e7e77e6760deac07c4c3bf95cc404f4c00b8420
 ./gypsum varieties/satin spar/28661579637_b834825276_b.jpg,04c2d62aeb1e8157836699e0a2f30ad2ff268622
 ./gypsum varieties/satin spar/28415041950_26af37ac25_b.jpg,3d679c2736b8aba231b0015ee29ee206e7967729
 ./gypsum varieties/satin spar/2596510492_6cd35c33b0_b.jpg,ab5e0095d5e448d86759984aed512f5dee20af1a
@@ -1077,14 +1093,19 @@
 ./quartz varieties/chalcedony/5e78547c9c5f7df5c51fa69fe7d567e2f5fd9e01.jpeg,5e78547c9c5f7df5c51fa69fe7d567e2f5fd9e01
 ./quartz varieties/chalcedony/Chalcedony-pseudo-coral-fl.jpg,1db8724bae2da8bc4ba675a7d0ed1a6a11a38151
 ./quartz varieties/chalcedony/white-chalcedony-wesley-hills.jpg,14d287c286369504b730e2e852adb035cb3e4ccb
+./quartz varieties/chalcedony/da75581250f838ff823c3bf65bebb2d34b36676f.jpeg,da75581250f838ff823c3bf65bebb2d34b36676f
 ./quartz varieties/chalcedony/petrified-wood-arizona.jpg,e9cf4f368b255b4d2d4e15396e38915109c22a13
 ./quartz varieties/chalcedony/chalcedony-pennsylvania.jpg,da34d0ae9eb114d7c3f4a33f1427e24a05e13754
 ./quartz varieties/chalcedony/chalcedony-pseudo-coral.jpg,185dd68503caba7f12d86db418bd29e31a2d0c79
 ./quartz varieties/chalcedony/petrified-wood-oregon.jpg,d51ef688a0c859c0f7e07a2951537f205a991309
+./quartz varieties/chalcedony/0fee0606c0e85fa987add4a57db87f3ffd8a62df.jpeg,0fee0606c0e85fa987add4a57db87f3ffd8a62df
 ./quartz varieties/chalcedony/red-chalcedony-stalactites.jpg,374d4391871e5cab96a194e252bf17582abd5944
 ./quartz varieties/chalcedony/chalcedony-balls-nasik.jpg,fec81324c2ba80fd5579cbd39d298f1070516705
+./quartz varieties/chalcedony/47e0fccf919a7db9fdae99076b771853ad06eb77.jpeg,47e0fccf919a7db9fdae99076b771853ad06eb77
 ./quartz varieties/chalcedony/tiger-eye-polished.jpg,9becea41f9e585030f8559d6a585699215cd13f9
 ./quartz varieties/chalcedony/carnelian-germany.jpg,ccf98876381cf233ca63965b95ba266797e1e594
+./quartz varieties/chalcedony/f72a77236978aeb72242add7642d27d0115cce32.jpeg,f72a77236978aeb72242add7642d27d0115cce32
+./quartz varieties/chalcedony/72a27cfaf6606208922a789bf8e24976e9e62ec8.jpeg,72a27cfaf6606208922a789bf8e24976e9e62ec8
 ./quartz varieties/chalcedony/prase-green-quartz.jpg,821d30c7f907d03bc8cd04789d766187fb6e314a
 ./quartz varieties/chalcedony/fire-agate-chalcedony.jpg,cf7299e104f91bd0530f1737b7d0ac38f8283b0e
 ./quartz varieties/chalcedony/45691.jpg,6ec7524543b8b04a977e698a30bdc8e380e55d1b
@@ -1095,6 +1116,7 @@
 ./quartz varieties/smoky quartz/1ab7c54693a72d1ab9f9d0f36098949b3e8a9871.jpeg,1ab7c54693a72d1ab9f9d0f36098949b3e8a9871
 ./quartz varieties/smoky quartz/818f85e85b602ae762cd0bdf7f00b4d4f7bad56f.jpeg,818f85e85b602ae762cd0bdf7f00b4d4f7bad56f
 ./quartz varieties/rose quartz/38d8e5b204837347c4681640128d0a36e8556a14.jpeg,38d8e5b204837347c4681640128d0a36e8556a14
+./quartz varieties/rose quartz/8e1f06f7305ad06ce88bd306f87eb9971374f27b.jpeg,8e1f06f7305ad06ce88bd306f87eb9971374f27b
 ./quartz varieties/rose quartz/cfd7993a2dc8b71da9d29ffde266642179fdf663.jpeg,cfd7993a2dc8b71da9d29ffde266642179fdf663
 ./quartz varieties/rose quartz/962c9837bcccbdbb77fcc93895973c1cf523f9f1.jpeg,962c9837bcccbdbb77fcc93895973c1cf523f9f1
 ./quartz varieties/rose quartz/68e222acb6812ffd1a8f6424b0c63edf7c8a4995.jpeg,68e222acb6812ffd1a8f6424b0c63edf7c8a4995
@@ -1153,8 +1175,11 @@
 ./quartz varieties/citrine/citrine-natural-mansa-luapula-zimbabwe.JPG,49633aef9ceabe324f6d099e53b78b1017cf9a78
 ./quartz varieties/citrine/citrine-heat-treated-cluster.jpg,b2ab25405c5f2a4b3cf7c364d1383ba1317ff4e1
 ./quartz varieties/citrine/ca7f48a0211957a02a929e1ec286f1abaeb0ebb0.jpeg,ca7f48a0211957a02a929e1ec286f1abaeb0ebb0
+./quartz varieties/aventurine/1408947daf57c885631c9486c0e91230a60ce6da.jpeg,1408947daf57c885631c9486c0e91230a60ce6da
+./quartz varieties/aventurine/719170a02ae0504ba71da70e14c69aca28adafe2.jpeg,719170a02ae0504ba71da70e14c69aca28adafe2
 ./quartz varieties/aventurine/02f93724844412f68f4898ebd1cd9554b9bf6a44.jpeg,02f93724844412f68f4898ebd1cd9554b9bf6a44
 ./quartz varieties/aventurine/2eaf9e99ebd0c828880068bcc48042fb9124bef7.jpeg,2eaf9e99ebd0c828880068bcc48042fb9124bef7
+./quartz varieties/aventurine/a613605d2b53103967a9230b4cf10cb27b53d30d.jpeg,a613605d2b53103967a9230b4cf10cb27b53d30d
 ./quartz varieties/aventurine/875dda02c745c998abf922ca75e32f6432250592.jpeg,875dda02c745c998abf922ca75e32f6432250592
 ./schist varieties/garnet schist/f9bbea7dd06991d77eb375e03b9d01619389b8c2.jpeg,f9bbea7dd06991d77eb375e03b9d01619389b8c2
 ./schist varieties/garnet schist/f2d7a6df722cae197213ac011ecb7ccaec09d082.jpeg,f2d7a6df722cae197213ac011ecb7ccaec09d082
@@ -1167,6 +1192,7 @@
 ./schist varieties/garnet schist/2b56b2cc30e9591648c3cfe22c150d65a7dfd3fc.jpeg,2b56b2cc30e9591648c3cfe22c150d65a7dfd3fc
 ./schist varieties/garnet schist/7ac861d63421426fa489413b41204708d38aceed.jpeg,7ac861d63421426fa489413b41204708d38aceed
 ./schist varieties/mica schist/9b015d6dd448e9540aa2cdaf7ddb2f9510e198ae.jpeg,9b015d6dd448e9540aa2cdaf7ddb2f9510e198ae
+./schist varieties/mica schist/871594b3503e04eb9b86372fc84eb7c46a93b229.jpeg,871594b3503e04eb9b86372fc84eb7c46a93b229
 ./schist varieties/mica schist/867cc17f00891f75dcdade8d4d458a5f55ca6429.jpeg,867cc17f00891f75dcdade8d4d458a5f55ca6429
 ./schist varieties/mica schist/8e42cacbb32fc40cee03749c5dcc414d3b251c5e.jpeg,8e42cacbb32fc40cee03749c5dcc414d3b251c5e
 ./schist varieties/mica schist/f5f6d53e0c21315940a6783b7ace19eada4c5276.jpeg,f5f6d53e0c21315940a6783b7ace19eada4c5276
@@ -1226,6 +1252,7 @@
 ./(hydr)oxides/zincite/zincite-crystals-steve-kuitems.jpg,88d555e9264fd1e6a2da1668f27e3e8332e73269
 ./(hydr)oxides/zincite/zincite-franklinite-franklin.jpg,4f8edd1da010854ecb38eee00ebf9bad9b84d251
 ./(hydr)oxides/zincite/10f13d735d488d2baf0538d6a434e450e22e3740.jpeg,10f13d735d488d2baf0538d6a434e450e22e3740
+./(hydr)oxides/zincite/3026af25309ada2c40a1aca14c73d04dae006820.jpeg,3026af25309ada2c40a1aca14c73d04dae006820
 ./(hydr)oxides/zincite/zincite-tephroite-sterling-hill.jpg,b21c859e5ccb2ba1cb6687071f75d7d61af5dcd2
 ./(hydr)oxides/zincite/zincite-crystals-ogdensburg.jpg,5810041bbed9448ef4dd67d8d1e180d6f3a1ba49
 ./(hydr)oxides/zincite/zincite-crystals-franklin-new-jersey.jpg,f48c5329ed2f5802f5ba6de7df5972f9df56ec4e
@@ -1366,6 +1393,10 @@
 ./igneous/pegmatite/8e856fd25db63a1b90e4443422c992fdcee55ec3.jpeg,8e856fd25db63a1b90e4443422c992fdcee55ec3
 ./igneous/pegmatite/3449305115_028943929d_b.jpg,262dd8215fe738e63b0b2699cc3ebdb3675b9f6c
 ./igneous/pegmatite/83c7ef219e824aa19668b8fd4d3b309923941fc7.jpeg,83c7ef219e824aa19668b8fd4d3b309923941fc7
+./igneous/tuff/48d95ed5912a694ecd6576fe2792becd4d7995f4.jpeg,48d95ed5912a694ecd6576fe2792becd4d7995f4
+./igneous/tuff/ae32e53963cc021acaaeb09250131873a65e9838.jpeg,ae32e53963cc021acaaeb09250131873a65e9838
+./igneous/tuff/414e55937d652674c4a84909bc1490e462a18a23.jpeg,414e55937d652674c4a84909bc1490e462a18a23
+./igneous/tuff/8928dcf63cb9def0936e21c851eac4a401169018.jpeg,8928dcf63cb9def0936e21c851eac4a401169018
 ./igneous/tuff/49869234716_6c694a1457_b.jpg,1c18e602b4b6a6a3adb4a3ce0bc00563ce403a73
 ./igneous/tuff/56c3d62c02ffda36d17f80e510c04048dbeeb140.jpeg,56c3d62c02ffda36d17f80e510c04048dbeeb140
 ./igneous/tuff/ff71cf50ccbc6ccd47ba997d12e00aadd270644e.jpeg,ff71cf50ccbc6ccd47ba997d12e00aadd270644e
@@ -1571,7 +1602,9 @@
 ./coal varieties/bituminous coal/3f745d8a6798e2187fde5a718c65fbda30ad9c2a.jpeg,3f745d8a6798e2187fde5a718c65fbda30ad9c2a
 ./coal varieties/bituminous coal/29105963614_28e0434c62_b.jpg,9a5ce1a60d352d7bf2bc4329a48714ed6c126a1d
 ./coal varieties/bituminous coal/31329447372_efdc169cf9_b.jpg,f48fd69d21d30f7ec0366dc0d3757fc0fc3aeb30
+./coal varieties/bituminous coal/6184a7cae4a5d93697cdad4f6e4bb9e165e0df99.jpeg,6184a7cae4a5d93697cdad4f6e4bb9e165e0df99
 ./coal varieties/bituminous coal/9620bc2fae53007280786ec4128e3496e644774f.jpeg,9620bc2fae53007280786ec4128e3496e644774f
+./coal varieties/bituminous coal/c179b115697cd191eb17e846419069605dfebe71.jpeg,c179b115697cd191eb17e846419069605dfebe71
 ./coal varieties/bituminous coal/facdf6794f0964fcab13f5ef6c7f43aaccab19cb.jpeg,facdf6794f0964fcab13f5ef6c7f43aaccab19cb
 ./coal varieties/bituminous coal/9e0ea1fea250f5f4bfb93f13dcca99921c676b99.jpeg,9e0ea1fea250f5f4bfb93f13dcca99921c676b99
 ./coal varieties/lignite/16827552535_20c4c438e1_b.jpg,856b9055eb964c28611f0161171a5c7652b0076f
